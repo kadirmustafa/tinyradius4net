@@ -10698,7 +10698,7 @@
             "lat": "46",
             "long": "25",
             "brand": "CFR",
-            "operator": "C\u0103ile Ferate Rome2ne",
+            "operator": "Cile Ferate Romene",
             "status": "Testing",
             "bands": "GSM-R 900",
             "notes": "Dedicated network for safety communication, not for public users. Dedicated band."
@@ -30567,9 +30567,9 @@
             "bands": "Unknown",
             "notes": null
         }, {
-            "plmn": "Japan - JP - 441n44100",
+            "plmn": "44100",
             "nibbledPlmn": "aJFp00",
-            "mcc": "Japan - JP - 441n441",
+            "mcc": "441",
             "mnc": "00",
             "type": "National",
             "countryName": "Japan",
