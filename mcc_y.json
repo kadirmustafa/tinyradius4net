@@ -30,6 +30,22 @@
             "status": "Operational",
             "bands": "any",
             "notes": null
+        },{
+            "plmn": "28601",
+            "nibbledPlmn": "82F610",
+            "mcc": "286",
+            "mnc": "01",
+            "region": "Europe",
+            "type": "National",
+            "countryName": "Turkey",
+            "countryCode": "TR",
+            "lat": "39.059012",
+            "long": "34.911546",
+            "brand": "Turkcell",
+            "operator": "Turkcell Iletisim Hizmetleri A.S.",
+            "status": "Operational",
+            "bands": "GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600",
+            "notes": null
         }, {
             "plmn": "99999",
             "nibbledPlmn": "99F999",
