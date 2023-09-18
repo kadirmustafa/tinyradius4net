@@ -20030,9 +20030,9 @@
             "bands": "LTE 700",
             "notes": "LTE band 17; former Worldcall Interconnect Inc."
         }, {
-            "plmn": "United States of America - US - 311n311000",
+            "plmn": "311000",
             "nibbledPlmn": "nU0i00",
-            "mcc": "United States of America - US - 311n311",
+            "mcc": "311",
             "mnc": "000",
             "type": "National",
             "countryName": "United States of America",
