@@ -22093,9 +22093,9 @@
             "bands": "LTE 700 / LTE 1700",
             "notes": null
         }, {
-            "plmn": "United States of America - US - 312n312010",
+            "plmn": "312010",
             "nibbledPlmn": "nU0i10",
-            "mcc": "United States of America - US - 312n312",
+            "mcc": "312",
             "mnc": "010",
             "type": "National",
             "countryName": "United States of America",
