@@ -14911,9 +14911,9 @@
             "bands": "Unknown",
             "notes": null
         }, {
-            "plmn": "United Kingdom - GB - 235\\n23500",
+            "plmn": "23500",
             "nibbledPlmn": "nUFi00",
-            "mcc": "United Kingdom - GB - 235\\n235",
+            "mcc": "235",
             "mnc": "00",
             "type": "National",
             "countryName": "United Kingdom",
@@ -20030,9 +20030,9 @@
             "bands": "LTE 700",
             "notes": "LTE band 17; former Worldcall Interconnect Inc."
         }, {
-            "plmn": "United States of America - US - 311\\n311000",
+            "plmn": "United States of America - US - 311n311000",
             "nibbledPlmn": "nU0i00",
-            "mcc": "United States of America - US - 311\\n311",
+            "mcc": "United States of America - US - 311n311",
             "mnc": "000",
             "type": "National",
             "countryName": "United States of America",
@@ -22093,9 +22093,9 @@
             "bands": "LTE 700 / LTE 1700",
             "notes": null
         }, {
-            "plmn": "United States of America - US - 312\\n312010",
+            "plmn": "United States of America - US - 312n312010",
             "nibbledPlmn": "nU0i10",
-            "mcc": "United States of America - US - 312\\n312",
+            "mcc": "United States of America - US - 312n312",
             "mnc": "010",
             "type": "National",
             "countryName": "United States of America",
@@ -23676,9 +23676,9 @@
             "bands": "Unknown",
             "notes": null
         }, {
-            "plmn": "United States of America - US - 313\\n313000",
+            "plmn": "United States of America - US - 313n313000",
             "nibbledPlmn": "nU0i00",
-            "mcc": "United States of America - US - 313\\n313",
+            "mcc": "United States of America - US - 313n313",
             "mnc": "000",
             "type": "National",
             "countryName": "United States of America",
@@ -24427,10 +24427,10 @@
             "bands": "Unknown",
             "notes": "Network for MTA / NYCTA"
         }, {
-            "plmn": "United States of America - US - 314\\n314100 - 190",
+            "plmn": "314100",
             "nibbledPlmn": "nU0i01",
-            "mcc": "United States of America - US - 314\\n314",
-            "mnc": "100 - 190",
+            "mcc": "314",
+            "mnc": "190",
             "type": "National",
             "countryName": "United States of America",
             "countryCode": "US",
@@ -24442,9 +24442,9 @@
             "bands": "Unknown",
             "notes": null
         }, {
-            "plmn": "United States of America - US - 315\\n315010",
+            "plmn": "315010",
             "nibbledPlmn": "nU0i10",
-            "mcc": "United States of America - US - 315\\n315",
+            "mcc": "315",
             "mnc": "010",
             "type": "National",
             "countryName": "United States of America",
@@ -24457,9 +24457,9 @@
             "bands": "TD-LTE 3500",
             "notes": "LTE band 48"
         }, {
-            "plmn": "United States of America - US - 316\\n316010",
+            "plmn": "316010",
             "nibbledPlmn": "nU0i10",
-            "mcc": "United States of America - US - 316\\n316",
+            "mcc": "316",
             "mnc": "010",
             "type": "National",
             "countryName": "United States of America",
@@ -27192,9 +27192,9 @@
             "bands": "Unknown",
             "notes": null
         }, {
-            "plmn": "India - IN - 405\\n40501",
+            "plmn": "40501",
             "nibbledPlmn": "nIFd10",
-            "mcc": "India - IN - 405\\n405",
+            "mcc": "405",
             "mnc": "01",
             "type": "National",
             "countryName": "India",
@@ -30567,9 +30567,9 @@
             "bands": "Unknown",
             "notes": null
         }, {
-            "plmn": "Japan - JP - 441\\n44100",
+            "plmn": "Japan - JP - 441n44100",
             "nibbledPlmn": "aJFp00",
-            "mcc": "Japan - JP - 441\\n441",
+            "mcc": "Japan - JP - 441n441",
             "mnc": "00",
             "type": "National",
             "countryName": "Japan",
