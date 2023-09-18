@@ -1,0 +1,43 @@
+[{
+    "MCC": "289",
+    "MNC": "88",
+    "ISO": "ge",
+    "Country": "Abkhazia",
+    "Country Code": "7",
+    "Network": "A-Mobile"
+}, {
+    "MCC": "289",
+    "MNC": "68",
+    "ISO": "ge",
+    "Country": "Abkhazia",
+    "Country Code": "7",
+    "Network": "A-Mobile"
+}, {
+    "MCC": "289",
+    "MNC": "67",
+    "ISO": "ge",
+    "Country": "Abkhazia",
+    "Country Code": "7",
+    "Network": "Aquafon"
+}, {
+    "MCC": "289",
+    "MNC": "299",
+    "ISO": "ge",
+    "Country": "Abkhazia",
+    "Country Code": "7",
+    "Network": "Failed Calls"
+}, {
+    "MCC": "289",
+    "MNC": "999",
+    "ISO": "ge",
+    "Country": "Abkhazia",
+    "Country Code": "7",
+    "Network": "Fix Line"
+}, {
+    "MCC": "412",
+    "MNC": "1",
+    "ISO": "af",
+    "Country": "Afghanistan",
+    "Country Code": "93",
+    "Network": "AWCC"
+}]
