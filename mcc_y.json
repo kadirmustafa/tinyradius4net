@@ -1,43 +1,66 @@
 [{
-    "MCC": "289",
-    "MNC": "88",
-    "ISO": "ge",
-    "Country": "Abkhazia",
-    "Country Code": "7",
-    "Network": "A-Mobile"
-}, {
-    "MCC": "289",
-    "MNC": "68",
-    "ISO": "ge",
-    "Country": "Abkhazia",
-    "Country Code": "7",
-    "Network": "A-Mobile"
-}, {
-    "MCC": "289",
-    "MNC": "67",
-    "ISO": "ge",
-    "Country": "Abkhazia",
-    "Country Code": "7",
-    "Network": "Aquafon"
-}, {
-    "MCC": "289",
-    "MNC": "299",
-    "ISO": "ge",
-    "Country": "Abkhazia",
-    "Country Code": "7",
-    "Network": "Failed Calls"
-}, {
-    "MCC": "289",
-    "MNC": "999",
-    "ISO": "ge",
-    "Country": "Abkhazia",
-    "Country Code": "7",
-    "Network": "Fix Line"
-}, {
-    "MCC": "412",
-    "MNC": "1",
-    "ISO": "af",
-    "Country": "Afghanistan",
-    "Country Code": "93",
-    "Network": "AWCC"
-}]
+            "plmn": "00101",
+            "nibbledPlmn": "00F110",
+            "mcc": "001",
+            "mnc": "01",
+            "region": "Test networks",
+            "type": "Test",
+            "countryName": null,
+            "countryCode": null,
+            "lat": null,
+            "long": null,
+            "brand": "TEST",
+            "operator": "Test Network",
+            "status": "Operational",
+            "bands": "any",
+            "notes": null
+        }, {
+            "plmn": "001001",
+            "nibbledPlmn": "001100",
+            "mcc": "001",
+            "mnc": "001",
+            "region": "Test networks",
+            "type": "Test",
+            "countryName": null,
+            "countryCode": null,
+            "lat": null,
+            "long": null,
+            "brand": "TEST",
+            "operator": "Test Network",
+            "status": "Operational",
+            "bands": "any",
+            "notes": null
+        }, {
+            "plmn": "99999",
+            "nibbledPlmn": "99F999",
+            "mcc": "999",
+            "mnc": "99",
+            "region": "Worldwide",
+            "type": "Test",
+            "countryName": null,
+            "countryCode": null,
+            "lat": null,
+            "long": null,
+            "brand": null,
+            "operator": "Internal use",
+            "status": "Operational",
+            "bands": "any",
+            "notes": "Internal use in private networks, no roaming"
+        }, {
+            "plmn": "999999",
+            "nibbledPlmn": "999999",
+            "mcc": "999",
+            "mnc": "999",
+            "region": "Worldwide",
+            "type": "Test",
+            "countryName": null,
+            "countryCode": null,
+            "lat": null,
+            "long": null,
+            "brand": null,
+            "operator": "Internal use",
+            "status": "Operational",
+            "bands": "any",
+            "notes": "Internal use in private networks, no roaming"
+        }
+]
