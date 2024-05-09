@@ -1,4232 +1,2226 @@
 [
   {
-    "Country Code": "7",
-    "Country": "Abkhazia",
-    "Network": "Aquafon",
-    "MCCMNC": "28967"
+    "Country Prefix": "49",
+    "Country Name": "Germany",
+    "Network Name": "Telefonica O2 Germany",
+    "mcc": "262",
+    "mnc": "07",
+    "mccmnc": "26207"
+  },
+  {
+    "Country Prefix": "1",
+    "Country Name": "United States",
+    "Network Name": "ClearSky: Inteliquent (Onvoy)",
+    "mcc": "312",
+    "mnc": "850",
+    "mccmnc": "312850"
+  },
+  {
+    "Country Prefix": "31",
+    "Country Name": "Netherlands",
+    "Network Name": "VodafoneZiggo Netherlands",
+    "mcc": "204",
+    "mnc": "04",
+    "mccmnc": "20404"
+  },
+  {
+    "Country Prefix": "994",
+    "Country Name": "Azerbaijan",
+    "Network Name": "Azercell",
+    "mcc": "400",
+    "mnc": "01",
+    "mccmnc": "40001"
+  },
+  {
+    "Country Prefix": "33",
+    "Country Name": "France",
+    "Network Name": "MNO - Free Mobile",
+    "mcc": "208",
+    "mnc": "15",
+    "mccmnc": "20815"
+  },
+  {
+    "Country Prefix": "30",
+    "Country Name": "Greece",
+    "Network Name": "Vodafone Greece",
+    "mcc": "202",
+    "mnc": "05",
+    "mccmnc": "20205"
+  },
+  {
+    "Country Prefix": "49",
+    "Country Name": "Germany",
+    "Network Name": "Vodafone Germany",
+    "mcc": "262",
+    "mnc": "02",
+    "mccmnc": "26202"
+  },
+  {
+    "Country Prefix": "49",
+    "Country Name": "Germany",
+    "Network Name": "T-Mobile (Deutsche Telekom)",
+    "mcc": "262",
+    "mnc": "01",
+    "mccmnc": "26201"
+  },
+  {
+    "Country Prefix": "1",
+    "Country Name": "United States",
+    "Network Name": "ClearSky: Telnyx",
+    "mcc": "312",
+    "mnc": "993",
+    "mccmnc": "312993"
+  },
+  {
+    "Country Prefix": "33",
+    "Country Name": "France",
+    "Network Name": "MNO - SFR",
+    "mcc": "208",
+    "mnc": "10",
+    "mccmnc": "20810"
+  },
+  {
+    "Country Prefix": "1",
+    "Country Name": "United States",
+    "Network Name": "USA - Landline and Other Carriers",
+    "mcc": "316",
+    "mnc": "000",
+    "mccmnc": "316000"
+  },
+  {
+    "Country Prefix": "31",
+    "Country Name": "Netherlands",
+    "Network Name": "KPN B.V.",
+    "mcc": "204",
+    "mnc": "08",
+    "mccmnc": "20408"
+  },
+  {
+    "Country Prefix": "44",
+    "Country Name": "United Kingdom",
+    "Network Name": "MNO - Vodafone UK",
+    "mcc": "234",
+    "mnc": "15",
+    "mccmnc": "23415"
   },
   {
-    "Country Code": "93",
-    "Country": "Afghanistan",
-    "Network": "Etisalat Afghanistan",
-    "MCCMNC": "41250"
+    "Country Prefix": "33",
+    "Country Name": "France",
+    "Network Name": "MNO - Orange",
+    "mcc": "208",
+    "mnc": "01",
+    "mccmnc": "20801"
   },
   {
-    "Country Code": "93",
-    "Country": "Afghanistan",
-    "Network": "AWCC (Afghan Wireless Communication Company)",
-    "MCCMNC": "41201"
+    "Country Prefix": "7",
+    "Country Name": "Russian Federation",
+    "Network Name": "Tinkoff Mobile (Tele2 MVNO)",
+    "mcc": "250",
+    "mnc": "62",
+    "mccmnc": "25062"
   },
   {
-    "Country Code": "93",
-    "Country": "Afghanistan",
-    "Network": "MTN Afghanistan",
-    "MCCMNC": "41240"
+    "Country Prefix": "46",
+    "Country Name": "Sweden",
+    "Network Name": "MNO - Tele2 Sverige AB",
+    "mcc": "240",
+    "mnc": "07",
+    "mccmnc": "24007"
   },
   {
-    "Country Code": "93",
-    "Country": "Afghanistan",
-    "Network": "ROSHAN (TDCA Ltd)",
-    "MCCMNC": "41220"
+    "Country Prefix": "7",
+    "Country Name": "Russian Federation",
+    "Network Name": "MTS (Mobile TeleSystems)",
+    "mcc": "250",
+    "mnc": "01",
+    "mccmnc": "25001"
   },
   {
-    "Country Code": "355",
-    "Country": "Albania",
-    "Network": "Albania Landline",
-    "MCCMNC": "276"
+    "Country Prefix": "32",
+    "Country Name": "Belgium",
+    "Network Name": "Proximus (Belgacom SA/NV)",
+    "mcc": "206",
+    "mnc": "01",
+    "mccmnc": "20601"
   },
   {
-    "Country Code": "355",
-    "Country": "Albania",
-    "Network": "Vodafone Albania",
-    "MCCMNC": "27602"
+    "Country Prefix": "44",
+    "Country Name": "United Kingdom",
+    "Network Name": "MNO - O2 (Telefonica UK Ltd)",
+    "mcc": "234",
+    "mnc": "10",
+    "mccmnc": "23410"
   },
   {
-    "Country Code": "213",
-    "Country": "Algeria",
-    "Network": "Mobilis (ATM Mobilis)",
-    "MCCMNC": "60301"
+    "Country Prefix": "31",
+    "Country Name": "Netherlands",
+    "Network Name": "T-Mobile NL",
+    "mcc": "204",
+    "mnc": "16",
+    "mccmnc": "20416"
   },
   {
-    "Country Code": "213",
-    "Country": "Algeria",
-    "Network": "Ooredoo Algeria",
-    "MCCMNC": "60303"
+    "Country Prefix": "964",
+    "Country Name": "Iraq",
+    "Network Name": "Asiacell (Ooredoo group)",
+    "mcc": "418",
+    "mnc": "05",
+    "mccmnc": "41805"
   },
   {
-    "Country Code": "213",
-    "Country": "Algeria",
-    "Network": "Djezzy (Orascom Telecom Algerie)",
-    "MCCMNC": "60302"
+    "Country Prefix": "994",
+    "Country Name": "Azerbaijan",
+    "Network Name": "Bakcell",
+    "mcc": "400",
+    "mnc": "02",
+    "mccmnc": "40002"
   },
   {
-    "Country Code": "1684",
-    "Country": "American Samoa",
-    "Network": "ASTCA (AMERICAN SAMOA TELECOMMUNICATIONS AUTHORITY)",
-    "MCCMNC": "311780"
+    "Country Prefix": "7",
+    "Country Name": "Russian Federation",
+    "Network Name": "Tele2",
+    "mcc": "250",
+    "mnc": "20",
+    "mccmnc": "25020"
   },
   {
-    "Country Code": "376",
-    "Country": "Andorra",
-    "Network": "Mobiland (Servei de Tele d'Andorra)",
-    "MCCMNC": "21303"
+    "Country Prefix": "352",
+    "Country Name": "Luxembourg",
+    "Network Name": "e-Lux Mobile (MVNO)",
+    "mcc": "270",
+    "mnc": "81",
+    "mccmnc": "27081"
   },
   {
-    "Country Code": "244",
-    "Country": "Angola",
-    "Network": "UNITEL",
-    "MCCMNC": "63102"
+    "Country Prefix": "7",
+    "Country Name": "Russian Federation",
+    "Network Name": "Beeline (VimpelCom)",
+    "mcc": "250",
+    "mnc": "99",
+    "mccmnc": "25099"
   },
   {
-    "Country Code": "244",
-    "Country": "Angola",
-    "Network": "Movicel",
-    "MCCMNC": "63104"
+    "Country Prefix": "45",
+    "Country Name": "Denmark",
+    "Network Name": "MNO - Telenor Denmark",
+    "mcc": "238",
+    "mnc": "02",
+    "mccmnc": "23802"
   },
   {
-    "Country Code": "54",
-    "Country": "Argentina",
-    "Network": "Argentina Landline",
-    "MCCMNC": "722"
+    "Country Prefix": "33",
+    "Country Name": "France",
+    "Network Name": "MNO - Bouygues Telecom",
+    "mcc": "208",
+    "mnc": "20",
+    "mccmnc": "20820"
   },
   {
-    "Country Code": "54",
-    "Country": "Argentina",
-    "Network": "Movistar (Telefonica Moviles Argentina S.A.)",
-    "MCCMNC": "722070"
+    "Country Prefix": "966",
+    "Country Name": "Saudi Arabia",
+    "Network Name": "Mobily (Etihad Etisalat Company)",
+    "mcc": "420",
+    "mnc": "03",
+    "mccmnc": "42003"
   },
   {
-    "Country Code": "54",
-    "Country": "Argentina",
-    "Network": "Claro Argentina (AMX Argentina S.A.)",
-    "MCCMNC": "722310"
+    "Country Prefix": "41",
+    "Country Name": "Switzerland",
+    "Network Name": "Sunrise",
+    "mcc": "228",
+    "mnc": "02",
+    "mccmnc": "22802"
   },
   {
-    "Country Code": "54",
-    "Country": "Argentina",
-    "Network": "Telecom Personal S.A.",
-    "MCCMNC": "722340"
+    "Country Prefix": "44",
+    "Country Name": "United Kingdom",
+    "Network Name": "MNO - BT - Everything Everywhere Limited (ex T-Mob & Orange)",
+    "mcc": "234",
+    "mnc": "30",
+    "mccmnc": "23430"
   },
   {
-    "Country Code": "374",
-    "Country": "Armenia",
-    "Network": "Ucom (ex. Orange)",
-    "MCCMNC": "28310"
+    "Country Prefix": "32",
+    "Country Name": "Belgium",
+    "Network Name": "BASE (KPN Group Belgium NV/SA)",
+    "mcc": "206",
+    "mnc": "20",
+    "mccmnc": "20620"
   },
   {
-    "Country Code": "297",
-    "Country": "Aruba",
-    "Network": "Digicel Aruba",
-    "MCCMNC": "36302"
+    "Country Prefix": "359",
+    "Country Name": "Bulgaria",
+    "Network Name": "vivacom (Bulgarian Telecommunications Company AD (BTC))",
+    "mcc": "284",
+    "mnc": "03",
+    "mccmnc": "28403"
   },
   {
-    "Country Code": "61",
-    "Country": "Australia",
-    "Network": "Telstra",
-    "MCCMNC": "50501"
+    "Country Prefix": "383",
+    "Country Name": "Kosovo",
+    "Network Name": "IPKO",
+    "mcc": "221",
+    "mnc": "02",
+    "mccmnc": "22102"
   },
   {
-    "Country Code": "61",
-    "Country": "Australia",
-    "Network": "Vodafone Australia",
-    "MCCMNC": "50503"
+    "Country Prefix": "45",
+    "Country Name": "Denmark",
+    "Network Name": "MNO - Telia DK",
+    "mcc": "238",
+    "mnc": "20",
+    "mccmnc": "23820"
   },
   {
-    "Country Code": "61",
-    "Country": "Australia",
-    "Network": "YES OPTUS (Singtel Optus Ltd)",
-    "MCCMNC": "50502"
+    "Country Prefix": "30",
+    "Country Name": "Greece",
+    "Network Name": "Wind Hellas",
+    "mcc": "202",
+    "mnc": "10",
+    "mccmnc": "20210"
   },
   {
-    "Country Code": "61",
-    "Country": "Australia",
-    "Network": "Australia Landline",
-    "MCCMNC": "505"
+    "Country Prefix": "30",
+    "Country Name": "Greece",
+    "Network Name": "Cosmote (Mobile Telecommunications S.A.)",
+    "mcc": "202",
+    "mnc": "01",
+    "mccmnc": "20201"
   },
   {
-    "Country Code": "61",
-    "Country": "Australia",
-    "Network": "Pivotel (Vodafone MVNO)",
-    "MCCMNC": "50550"
+    "Country Prefix": "32",
+    "Country Name": "Belgium",
+    "Network Name": "Orange (ex. Mobistar S.A.)",
+    "mcc": "206",
+    "mnc": "10",
+    "mccmnc": "20610"
   },
   {
-    "Country Code": "43",
-    "Country": "Austria",
-    "Network": "A1 Telekom (Telekom Austria)",
-    "MCCMNC": "23201"
+    "Country Prefix": "20",
+    "Country Name": "Egypt",
+    "Network Name": "Etisalat Egypt",
+    "mcc": "602",
+    "mnc": "03",
+    "mccmnc": "60203"
   },
   {
-    "Country Code": "43",
-    "Country": "Austria",
-    "Network": "3 (CK Hutchison)",
-    "MCCMNC": "23210"
+    "Country Prefix": "383",
+    "Country Name": "Kosovo",
+    "Network Name": "Vala (Telekomi i Kosovës sh.a.)",
+    "mcc": "221",
+    "mnc": "01",
+    "mccmnc": "22101"
   },
   {
-    "Country Code": "43",
-    "Country": "Austria",
-    "Network": "T-Mobile (Deutsche Telekom)",
-    "MCCMNC": "23203"
+    "Country Prefix": "972",
+    "Country Name": "Israel",
+    "Network Name": "Hot Mobile",
+    "mcc": "425",
+    "mnc": "07",
+    "mccmnc": "42507"
   },
   {
-    "Country Code": "43",
-    "Country": "Austria",
-    "Network": "Spusu (Mass Response Service) (3 CK Hutchinson MVNO)",
-    "MCCMNC": "23217"
+    "Country Prefix": "60",
+    "Country Name": "Malaysia",
+    "Network Name": "Webe (Packet One)",
+    "mcc": "502",
+    "mnc": "153",
+    "mccmnc": "502153"
   },
   {
-    "Country Code": "43",
-    "Country": "Austria",
-    "Network": "Austria Landline",
-    "MCCMNC": "232"
+    "Country Prefix": "961",
+    "Country Name": "Lebanon",
+    "Network Name": "Alfa (MIC 1)",
+    "mcc": "415",
+    "mnc": "01",
+    "mccmnc": "41501"
   },
   {
-    "Country Code": "43",
-    "Country": "Austria",
-    "Network": "MVNO - m:tel (Telekom Srpske) (A1)",
-    "MCCMNC": "23220"
+    "Country Prefix": "43",
+    "Country Name": "Austria",
+    "Network Name": "A1 Telekom (Telekom Austria)",
+    "mcc": "232",
+    "mnc": "01",
+    "mccmnc": "23201"
   },
   {
-    "Country Code": "43",
-    "Country": "Austria",
-    "Network": "MVNO - Tele2 Telecommunication GmbH (T-Mobile)",
-    "MCCMNC": "23219"
+    "Country Prefix": "48",
+    "Country Name": "Poland",
+    "Network Name": "AERO (CenterNet S.A.) (Plus MVNO)",
+    "mcc": "260",
+    "mnc": "15",
+    "mccmnc": "26015"
   },
   {
-    "Country Code": "43",
-    "Country": "Austria",
-    "Network": "MVNO - tele.ring (T-Mobile Austria)",
-    "MCCMNC": "23207"
+    "Country Prefix": "49",
+    "Country Name": "Germany",
+    "Network Name": "Germany Landline",
+    "mcc": "262",
+    "mnc": "",
+    "mccmnc": "262"
   },
   {
-    "Country Code": "994",
-    "Country": "Azerbaijan",
-    "Network": "Nar Mobile (Azerfon LLC)",
-    "MCCMNC": "40004"
+    "Country Prefix": "359",
+    "Country Name": "Bulgaria",
+    "Network Name": "Yettel Bulgaria (ex Telenor)",
+    "mcc": "284",
+    "mnc": "05",
+    "mccmnc": "28405"
   },
   {
-    "Country Code": "994",
-    "Country": "Azerbaijan",
-    "Network": "Azercell",
-    "MCCMNC": "40001"
+    "Country Prefix": "92",
+    "Country Name": "Pakistan",
+    "Network Name": "Telenor Pakistan",
+    "mcc": "410",
+    "mnc": "06",
+    "mccmnc": "41006"
   },
   {
-    "Country Code": "994",
-    "Country": "Azerbaijan",
-    "Network": "Bakcell",
-    "MCCMNC": "40002"
+    "Country Prefix": "44",
+    "Country Name": "United Kingdom",
+    "Network Name": "MNO - 3 (Hutchison 3G UK Ltd)",
+    "mcc": "234",
+    "mnc": "20",
+    "mccmnc": "23420"
   },
   {
-    "Country Code": "994",
-    "Country": "Azerbaijan",
-    "Network": "Naxtel",
-    "MCCMNC": "40006"
+    "Country Prefix": "41",
+    "Country Name": "Switzerland",
+    "Network Name": "Swisscom",
+    "mcc": "228",
+    "mnc": "01",
+    "mccmnc": "22801"
   },
   {
-    "Country Code": "994",
-    "Country": "Azerbaijan",
-    "Network": "Azerbaijan Landline",
-    "MCCMNC": "400"
+    "Country Prefix": "53",
+    "Country Name": "Cuba",
+    "Network Name": "Cuba Landline",
+    "mcc": "368",
+    "mnc": "",
+    "mccmnc": "368"
   },
   {
-    "Country Code": "973",
-    "Country": "Bahrain",
-    "Network": "Batelco (Bahrain Telecommunications Company)",
-    "MCCMNC": "42601"
+    "Country Prefix": "36",
+    "Country Name": "Hungary",
+    "Network Name": "Vodafone Hungary",
+    "mcc": "216",
+    "mnc": "70",
+    "mccmnc": "21670"
   },
   {
-    "Country Code": "973",
-    "Country": "Bahrain",
-    "Network": "STC Bahrain (ex. VIVA)",
-    "MCCMNC": "42604"
+    "Country Prefix": "359",
+    "Country Name": "Bulgaria",
+    "Network Name": "Bulgaria Landline",
+    "mcc": "284",
+    "mnc": "",
+    "mccmnc": "284"
   },
   {
-    "Country Code": "880",
-    "Country": "Bangladesh",
-    "Network": "Banglalink (Orascom Telecom Ltd)",
-    "MCCMNC": "47003"
+    "Country Prefix": "965",
+    "Country Name": "Kuwait",
+    "Network Name": "STC Kuwait (ex VIVA)",
+    "mcc": "419",
+    "mnc": "04",
+    "mccmnc": "41904"
   },
   {
-    "Country Code": "880",
-    "Country": "Bangladesh",
-    "Network": "Grameenphone",
-    "MCCMNC": "47001"
+    "Country Prefix": "46",
+    "Country Name": "Sweden",
+    "Network Name": "MNO - Telenor Sverige AB",
+    "mcc": "240",
+    "mnc": "08",
+    "mccmnc": "24008"
   },
   {
-    "Country Code": "880",
-    "Country": "Bangladesh",
-    "Network": "Robi (Robi Axiata Ltd)",
-    "MCCMNC": "47002"
+    "Country Prefix": "31",
+    "Country Name": "Netherlands",
+    "Network Name": "Netherland Landline",
+    "mcc": "204",
+    "mnc": "",
+    "mccmnc": "204"
   },
   {
-    "Country Code": "1246",
-    "Country": "Barbados",
-    "Network": "Flow (Cable & Wireless (Barbados) Ltd)",
-    "MCCMNC": "342600"
+    "Country Prefix": "45",
+    "Country Name": "Denmark",
+    "Network Name": "MVNO - CBB Mobil (Telenor MVNO)",
+    "mcc": "238",
+    "mnc": "02",
+    "mccmnc": "23802"
   },
   {
-    "Country Code": "375",
-    "Country": "Belarus",
-    "Network": "MTS (JLLC Mobile TeleSystems)",
-    "MCCMNC": "25702"
+    "Country Prefix": "45",
+    "Country Name": "Denmark",
+    "Network Name": "MNO - 3 DK (Hi3G Denmark ApS)",
+    "mcc": "238",
+    "mnc": "06",
+    "mccmnc": "23806"
   },
   {
-    "Country Code": "375",
-    "Country": "Belarus",
-    "Network": "life:) (Belarusian Telecommunications Network CJSC)",
-    "MCCMNC": "25704"
+    "Country Prefix": "36",
+    "Country Name": "Hungary",
+    "Network Name": "Yettel Hungary (ex Telenor)",
+    "mcc": "216",
+    "mnc": "01",
+    "mccmnc": "21601"
   },
   {
-    "Country Code": "375",
-    "Country": "Belarus",
-    "Network": "A1 (ex. velcom)",
-    "MCCMNC": "25701"
+    "Country Prefix": "20",
+    "Country Name": "Egypt",
+    "Network Name": "Orange (ex. Mobinil)",
+    "mcc": "602",
+    "mnc": "01",
+    "mccmnc": "60201"
   },
   {
-    "Country Code": "32",
-    "Country": "Belgium",
-    "Network": "Orange (ex. Mobistar S.A.)",
-    "MCCMNC": "20610"
+    "Country Prefix": "43",
+    "Country Name": "Austria",
+    "Network Name": "T-Mobile (Deutsche Telekom)",
+    "mcc": "232",
+    "mnc": "03",
+    "mccmnc": "23203"
   },
   {
-    "Country Code": "32",
-    "Country": "Belgium",
-    "Network": "Telenet NV (Orange MVNO)",
-    "MCCMNC": "20605"
+    "Country Prefix": "34",
+    "Country Name": "Spain",
+    "Network Name": "MNO - Movistar (Telefonica Moviles Espana)",
+    "mcc": "214",
+    "mnc": "07",
+    "mccmnc": "21407"
   },
   {
-    "Country Code": "32",
-    "Country": "Belgium",
-    "Network": "Proximus (Belgacom SA/NV)",
-    "MCCMNC": "20601"
+    "Country Prefix": "45",
+    "Country Name": "Denmark",
+    "Network Name": "MVNO - Telenor Connexion AB (Telenor MVNO)",
+    "mcc": "238",
+    "mnc": "02",
+    "mccmnc": "23802"
   },
   {
-    "Country Code": "32",
-    "Country": "Belgium",
-    "Network": "BASE (KPN Group Belgium NV/SA)",
-    "MCCMNC": "20620"
+    "Country Prefix": "373",
+    "Country Name": "Moldova",
+    "Network Name": "Unite (MoldTelecom)",
+    "mcc": "259",
+    "mnc": "05",
+    "mccmnc": "25905"
   },
   {
-    "Country Code": "32",
-    "Country": "Belgium",
-    "Network": "VOOmobile (BASE MVNO)",
-    "MCCMNC": "20608"
+    "Country Prefix": "260",
+    "Country Name": "Zambia",
+    "Network Name": "Zambia Telecommunications Company (Zamtel)",
+    "mcc": "645",
+    "mnc": "03",
+    "mccmnc": "64503"
   },
   {
-    "Country Code": "32",
-    "Country": "Belgium",
-    "Network": "Belgium Landline",
-    "MCCMNC": "206"
+    "Country Prefix": "62",
+    "Country Name": "Indonesia",
+    "Network Name": "XL (PT XL Axiata Tbk)",
+    "mcc": "510",
+    "mnc": "11",
+    "mccmnc": "51011"
   },
   {
-    "Country Code": "32",
-    "Country": "Belgium",
-    "Network": "Lycamobile sprl",
-    "MCCMNC": "20606"
+    "Country Prefix": "1",
+    "Country Name": "United States",
+    "Network Name": "T-Mobile US",
+    "mcc": "310",
+    "mnc": "260",
+    "mccmnc": "310260"
   },
   {
-    "Country Code": "32",
-    "Country": "Belgium",
-    "Network": "Febo Telecom",
-    "MCCMNC": "20622"
+    "Country Prefix": "32",
+    "Country Name": "Belgium",
+    "Network Name": "Belgium Landline",
+    "mcc": "206",
+    "mnc": "",
+    "mccmnc": "206"
   },
   {
-    "Country Code": "229",
-    "Country": "Benin",
-    "Network": "MTN (Spacetel-Benin)",
-    "MCCMNC": "61603"
+    "Country Prefix": "62",
+    "Country Name": "Indonesia",
+    "Network Name": "Smartfren (PT Smartfren Telecom)",
+    "mcc": "510",
+    "mnc": "28",
+    "mccmnc": "51028"
   },
   {
-    "Country Code": "229",
-    "Country": "Benin",
-    "Network": "Moov (ex. Etisalat) Benin",
-    "MCCMNC": "61602"
+    "Country Prefix": "965",
+    "Country Name": "Kuwait",
+    "Network Name": "zain KW (Mobile Telecommunications Co.)",
+    "mcc": "419",
+    "mnc": "02",
+    "mccmnc": "41902"
   },
   {
-    "Country Code": "975",
-    "Country": "Bhutan",
-    "Network": "TashiCell (Tashi InfoComm Ltd)",
-    "MCCMNC": "40277"
+    "Country Prefix": "249",
+    "Country Name": "Sudan",
+    "Network Name": "Sudani One (Sudan Telecommunications Company)",
+    "mcc": "634",
+    "mnc": "07",
+    "mccmnc": "63407"
   },
   {
-    "Country Code": "975",
-    "Country": "Bhutan",
-    "Network": "B-Mobile (Bhutan Telecom Limited)",
-    "MCCMNC": "40211"
+    "Country Prefix": "212",
+    "Country Name": "Morocco",
+    "Network Name": "INWI (WANA - Groupe ONA)",
+    "mcc": "604",
+    "mnc": "02",
+    "mccmnc": "60402"
   },
   {
-    "Country Code": "591",
-    "Country": "Bolivia",
-    "Network": "Entel",
-    "MCCMNC": "73602"
+    "Country Prefix": "233",
+    "Country Name": "Ghana",
+    "Network Name": "AirtelTigo Ghana",
+    "mcc": "620",
+    "mnc": "06",
+    "mccmnc": "62006"
   },
   {
-    "Country Code": "591",
-    "Country": "Bolivia",
-    "Network": "Tigo (Millicom International Cellular S.A.)",
-    "MCCMNC": "73603"
+    "Country Prefix": "964",
+    "Country Name": "Iraq",
+    "Network Name": "Korek Telecom",
+    "mcc": "418",
+    "mnc": "40",
+    "mccmnc": "41840"
   },
   {
-    "Country Code": "591",
-    "Country": "Bolivia",
-    "Network": "Viva (Nuevatel PCS De Bolivia)",
-    "MCCMNC": "73601"
+    "Country Prefix": "373",
+    "Country Name": "Moldova",
+    "Network Name": "MoldCell",
+    "mcc": "259",
+    "mnc": "02",
+    "mccmnc": "25902"
   },
   {
-    "Country Code": "387",
-    "Country": "Bosnia and Herzegovina",
-    "Network": "BH Mobile (BH Telecom)",
-    "MCCMNC": "21890"
+    "Country Prefix": "7",
+    "Country Name": "Russian Federation",
+    "Network Name": "Megafon",
+    "mcc": "250",
+    "mnc": "02",
+    "mccmnc": "25002"
   },
   {
-    "Country Code": "387",
-    "Country": "Bosnia and Herzegovina",
-    "Network": "m:tel (RS Telecommunications  JSC Banja Luka)",
-    "MCCMNC": "21805"
+    "Country Prefix": "61",
+    "Country Name": "Australia",
+    "Network Name": "YES OPTUS (Singtel Optus Ltd)",
+    "mcc": "505",
+    "mnc": "02",
+    "mccmnc": "50502"
   },
   {
-    "Country Code": "387",
-    "Country": "Bosnia and Herzegovina",
-    "Network": "Bosnia and Herzegovina Landline",
-    "MCCMNC": "218"
+    "Country Prefix": "61",
+    "Country Name": "Australia",
+    "Network Name": "Vodafone Australia",
+    "mcc": "505",
+    "mnc": "03",
+    "mccmnc": "50503"
   },
   {
-    "Country Code": "387",
-    "Country": "Bosnia and Herzegovina",
-    "Network": "HT-ERONET (Public Enterprise Croatian Telecom JSC)",
-    "MCCMNC": "21803"
+    "Country Prefix": "389",
+    "Country Name": "North Macedonia",
+    "Network Name": "T-Mobile Macedonia",
+    "mcc": "294",
+    "mnc": "01",
+    "mccmnc": "29401"
   },
   {
-    "Country Code": "55",
-    "Country": "Brazil",
-    "Network": "Vivo // GO - Goiania",
-    "MCCMNC": "72406"
+    "Country Prefix": "996",
+    "Country Name": "Kyrgyzstan",
+    "Network Name": "O! (NurTelecom LLC)",
+    "mcc": "437",
+    "mnc": "09",
+    "mccmnc": "43709"
   },
   {
-    "Country Code": "55",
-    "Country": "Brazil",
-    "Network": "Claro // PE - Recife",
-    "MCCMNC": "72405"
+    "Country Prefix": "389",
+    "Country Name": "North Macedonia",
+    "Network Name": "Vip MK (one.Vip DOO Skopje (MKDNO))",
+    "mcc": "294",
+    "mnc": "03",
+    "mccmnc": "29403"
   },
   {
-    "Country Code": "55",
-    "Country": "Brazil",
-    "Network": "Claro // SP - Sao Paulo",
-    "MCCMNC": "72405"
+    "Country Prefix": "994",
+    "Country Name": "Azerbaijan",
+    "Network Name": "Nar Mobile (Azerfon LLC)",
+    "mcc": "400",
+    "mnc": "04",
+    "mccmnc": "40004"
   },
   {
-    "Country Code": "55",
-    "Country": "Brazil",
-    "Network": "Claro // TO - Palmas",
-    "MCCMNC": "72405"
+    "Country Prefix": "63",
+    "Country Name": "Philippines",
+    "Network Name": "Globe Telecom",
+    "mcc": "515",
+    "mnc": "02",
+    "mccmnc": "51502"
   },
   {
-    "Country Code": "55",
-    "Country": "Brazil",
-    "Network": "TIM Brasil // SP - Sao Paulo",
-    "MCCMNC": "72402"
+    "Country Prefix": "81",
+    "Country Name": "Japan",
+    "Network Name": "au (KDDI)",
+    "mcc": "440",
+    "mnc": "54",
+    "mccmnc": "44054"
   },
   {
-    "Country Code": "55",
-    "Country": "Brazil",
-    "Network": "TIM Brasil // PB - Joao Pessoa",
-    "MCCMNC": "72402"
+    "Country Prefix": "373",
+    "Country Name": "Moldova",
+    "Network Name": "Orange Moldova",
+    "mcc": "259",
+    "mnc": "01",
+    "mccmnc": "25901"
   },
   {
-    "Country Code": "55",
-    "Country": "Brazil",
-    "Network": "Claro // DF - Brasilia",
-    "MCCMNC": "72405"
+    "Country Prefix": "374",
+    "Country Name": "Armenia",
+    "Network Name": "Ucom (ex. Orange)",
+    "mcc": "283",
+    "mnc": "10",
+    "mccmnc": "28310"
   },
   {
-    "Country Code": "55",
-    "Country": "Brazil",
-    "Network": "Vivo // SE - Aracaju",
-    "MCCMNC": "72406"
+    "Country Prefix": "880",
+    "Country Name": "Bangladesh",
+    "Network Name": "Banglalink (Orascom Telecom Ltd)",
+    "mcc": "470",
+    "mnc": "03",
+    "mccmnc": "47003"
   },
   {
-    "Country Code": "55",
-    "Country": "Brazil",
-    "Network": "Claro // AM - Manaus",
-    "MCCMNC": "72405"
+    "Country Prefix": "43",
+    "Country Name": "Austria",
+    "Network Name": "3 (CK Hutchison)",
+    "mcc": "232",
+    "mnc": "10",
+    "mccmnc": "23210"
   },
   {
-    "Country Code": "55",
-    "Country": "Brazil",
-    "Network": "Claro // RS - Porto Alegre",
-    "MCCMNC": "72405"
+    "Country Prefix": "962",
+    "Country Name": "Jordan",
+    "Network Name": "Umniah",
+    "mcc": "416",
+    "mnc": "03",
+    "mccmnc": "41603"
   },
   {
-    "Country Code": "55",
-    "Country": "Brazil",
-    "Network": "Brazil Landline // RS - Porto Alegre",
-    "MCCMNC": "724"
+    "Country Prefix": "998",
+    "Country Name": "Uzbekistan",
+    "Network Name": "Beeline (Unitel LLC)",
+    "mcc": "434",
+    "mnc": "04",
+    "mccmnc": "43404"
   },
   {
-    "Country Code": "55",
-    "Country": "Brazil",
-    "Network": "Vivo // SP - Sao Paulo",
-    "MCCMNC": "72406"
+    "Country Prefix": "55",
+    "Country Name": "Brazil",
+    "Network Name": "TIM Brasil // RJ - Rio de Janeiro",
+    "mcc": "724",
+    "mnc": "02",
+    "mccmnc": "72402"
   },
   {
-    "Country Code": "55",
-    "Country": "Brazil",
-    "Network": "Vivo // SC - Florianopolis",
-    "MCCMNC": "72406"
+    "Country Prefix": "995",
+    "Country Name": "Georgia",
+    "Network Name": "Geocell (Silknet)",
+    "mcc": "282",
+    "mnc": "01",
+    "mccmnc": "28201"
   },
   {
-    "Country Code": "55",
-    "Country": "Brazil",
-    "Network": "Brazil Landline // ES - Vitoria",
-    "MCCMNC": "724"
+    "Country Prefix": "7",
+    "Country Name": "Kazakhstan",
+    "Network Name": "K-Cell (GSM Kazakhstan Ltd)",
+    "mcc": "401",
+    "mnc": "02",
+    "mccmnc": "40102"
   },
   {
-    "Country Code": "359",
-    "Country": "Bulgaria",
-    "Network": "A1 (M-TEL)",
-    "MCCMNC": "28401"
+    "Country Prefix": "7",
+    "Country Name": "Kazakhstan",
+    "Network Name": "Beeline (KaR-Tel LLP)",
+    "mcc": "401",
+    "mnc": "01",
+    "mccmnc": "40101"
   },
   {
-    "Country Code": "359",
-    "Country": "Bulgaria",
-    "Network": "Yettel Bulgaria (ex Telenor)",
-    "MCCMNC": "28405"
+    "Country Prefix": "387",
+    "Country Name": "Bosnia and Herzegovina",
+    "Network Name": "BH Mobile (BH Telecom)",
+    "mcc": "218",
+    "mnc": "90",
+    "mccmnc": "21890"
   },
   {
-    "Country Code": "359",
-    "Country": "Bulgaria",
-    "Network": "vivacom (Bulgarian Telecommunications Company AD (BTC))",
-    "MCCMNC": "28403"
+    "Country Prefix": "212",
+    "Country Name": "Morocco",
+    "Network Name": "Orange (ex Meditel)",
+    "mcc": "604",
+    "mnc": "00",
+    "mccmnc": "60400"
   },
   {
-    "Country Code": "359",
-    "Country": "Bulgaria",
-    "Network": "Bulgaria Landline",
-    "MCCMNC": "284"
+    "Country Prefix": "385",
+    "Country Name": "Croatia",
+    "Network Name": "Telemach (ex TELE2)",
+    "mcc": "219",
+    "mnc": "02",
+    "mccmnc": "21902"
   },
   {
-    "Country Code": "226",
-    "Country": "Burkina Faso",
-    "Network": "TeleCel FASO",
-    "MCCMNC": "61303"
+    "Country Prefix": "45",
+    "Country Name": "Denmark",
+    "Network Name": "MVNO - TELMORE (TDC MVNO)",
+    "mcc": "238",
+    "mnc": "01",
+    "mccmnc": "23801"
   },
   {
-    "Country Code": "226",
-    "Country": "Burkina Faso",
-    "Network": "Orange Burkina Faso S.A. (ex. Airtel)",
-    "MCCMNC": "61302"
+    "Country Prefix": "355",
+    "Country Name": "Albania",
+    "Network Name": "Vodafone Albania",
+    "mcc": "276",
+    "mnc": "02",
+    "mccmnc": "27602"
   },
   {
-    "Country Code": "257",
-    "Country": "Burundi",
-    "Network": "ONATEL Mobile",
-    "MCCMNC": "64203"
+    "Country Prefix": "7",
+    "Country Name": "Kazakhstan",
+    "Network Name": "Kazakhstan Landline",
+    "mcc": "401",
+    "mnc": "",
+    "mccmnc": "401"
   },
   {
-    "Country Code": "257",
-    "Country": "Burundi",
-    "Network": "Econet Leo Burundi",
-    "MCCMNC": "64282"
+    "Country Prefix": "505",
+    "Country Name": "Nicaragua",
+    "Network Name": "movistarNI (Telefonia Celular de Nicaragua S.A.)",
+    "mcc": "710",
+    "mnc": "30",
+    "mccmnc": "71030"
   },
   {
-    "Country Code": "257",
-    "Country": "Burundi",
-    "Network": "Smart Mobile (LACELL SU)",
-    "MCCMNC": "64207"
+    "Country Prefix": "998",
+    "Country Name": "Uzbekistan",
+    "Network Name": "UzMobile",
+    "mcc": "434",
+    "mnc": "08",
+    "mccmnc": "43408"
   },
   {
-    "Country Code": "238",
-    "Country": "Cabo Verde",
-    "Network": "Unitel T+ Telecomunicacoes",
-    "MCCMNC": "62502"
+    "Country Prefix": "380",
+    "Country Name": "Ukraine",
+    "Network Name": "Vodafone Ukraine (fka MTS)",
+    "mcc": "255",
+    "mnc": "01",
+    "mccmnc": "25501"
   },
   {
-    "Country Code": "855",
-    "Country": "Cambodia",
-    "Network": "Smart (Smart Axiata Co. Ltd - fka Latelz)",
-    "MCCMNC": "45602"
+    "Country Prefix": "507",
+    "Country Name": "Panama",
+    "Network Name": "Panama Landline",
+    "mcc": "714",
+    "mnc": "",
+    "mccmnc": "714"
   },
   {
-    "Country Code": "855",
-    "Country": "Cambodia",
-    "Network": "Metfone (Viettel Cambodia)",
-    "MCCMNC": "45608"
+    "Country Prefix": "212",
+    "Country Name": "Morocco",
+    "Network Name": "Morocco Landline",
+    "mcc": "604",
+    "mnc": "",
+    "mccmnc": "604"
   },
   {
-    "Country Code": "855",
-    "Country": "Cambodia",
-    "Network": "SeaTel (South East Asia Telecom)",
-    "MCCMNC": "45611"
+    "Country Prefix": "60",
+    "Country Name": "Malaysia",
+    "Network Name": "Celcom Axiata Bhd",
+    "mcc": "502",
+    "mnc": "19",
+    "mccmnc": "50219"
   },
   {
-    "Country Code": "855",
-    "Country": "Cambodia",
-    "Network": "Cambodia Landline",
-    "MCCMNC": "456"
+    "Country Prefix": "995",
+    "Country Name": "Georgia",
+    "Network Name": "Beeline (Mobitel)",
+    "mcc": "282",
+    "mnc": "04",
+    "mccmnc": "28204"
   },
   {
-    "Country Code": "855",
-    "Country": "Cambodia",
-    "Network": "Cellcard (CamGSM)",
-    "MCCMNC": "45601"
+    "Country Prefix": "34",
+    "Country Name": "Spain",
+    "Network Name": "MNO - Vodafone Espana",
+    "mcc": "214",
+    "mnc": "01",
+    "mccmnc": "21401"
   },
   {
-    "Country Code": "237",
-    "Country": "Cameroon",
-    "Network": "Orange",
-    "MCCMNC": "62402"
+    "Country Prefix": "34",
+    "Country Name": "Spain",
+    "Network Name": "MNO - Orange Espana",
+    "mcc": "214",
+    "mnc": "03",
+    "mccmnc": "21403"
   },
   {
-    "Country Code": "237",
-    "Country": "Cameroon",
-    "Network": "MTN Cameroon",
-    "MCCMNC": "62401"
+    "Country Prefix": "962",
+    "Country Name": "Jordan",
+    "Network Name": "zain JO (JMTS)",
+    "mcc": "416",
+    "mnc": "01",
+    "mccmnc": "41601"
   },
   {
-    "Country Code": "237",
-    "Country": "Cameroon",
-    "Network": "Nexttel (Viettel)",
-    "MCCMNC": "62404"
+    "Country Prefix": "996",
+    "Country Name": "Kyrgyzstan",
+    "Network Name": "Beeline KG (Sky Mobile LLC)",
+    "mcc": "437",
+    "mnc": "01",
+    "mccmnc": "43701"
   },
   {
-    "Country Code": "1",
-    "Country": "Canada",
-    "Network": "Bell Mobility",
-    "MCCMNC": "302610"
+    "Country Prefix": "223",
+    "Country Name": "Mali",
+    "Network Name": "Telcell",
+    "mcc": "610",
+    "mnc": "03",
+    "mccmnc": "61003"
   },
   {
-    "Country Code": "1",
-    "Country": "Canada",
-    "Network": "Ice Wireless (Iristel)",
-    "MCCMNC": "302620"
+    "Country Prefix": "995",
+    "Country Name": "Georgia",
+    "Network Name": "MagtiCom",
+    "mcc": "282",
+    "mnc": "02",
+    "mccmnc": "28202"
   },
   {
-    "Country Code": "1",
-    "Country": "Canada",
-    "Network": "Rogers Wireless",
-    "MCCMNC": "302720"
+    "Country Prefix": "63",
+    "Country Name": "Philippines",
+    "Network Name": "Smart Communications",
+    "mcc": "515",
+    "mnc": "03",
+    "mccmnc": "51503"
   },
   {
-    "Country Code": "1",
-    "Country": "Canada",
-    "Network": "Rogers Wireless - Fido",
-    "MCCMNC": "302370"
+    "Country Prefix": "1",
+    "Country Name": "Canada",
+    "Network Name": "Bell Mobility",
+    "mcc": "302",
+    "mnc": "610",
+    "mccmnc": "302610"
   },
   {
-    "Country Code": "1",
-    "Country": "Canada",
-    "Network": "Telus Mobility",
-    "MCCMNC": "302220"
+    "Country Prefix": "48",
+    "Country Name": "Poland",
+    "Network Name": "Play (P4 Sp. z o.o.)",
+    "mcc": "260",
+    "mnc": "06",
+    "mccmnc": "26006"
   },
   {
-    "Country Code": "1",
-    "Country": "Canada",
-    "Network": "Fibernetics Corporation",
-    "MCCMNC": "302140"
+    "Country Prefix": "965",
+    "Country Name": "Kuwait",
+    "Network Name": "Ooredoo Kuwait",
+    "mcc": "419",
+    "mnc": "03",
+    "mccmnc": "41903"
   },
   {
-    "Country Code": "1",
-    "Country": "Canada",
-    "Network": "Freedom Mobile",
-    "MCCMNC": "302490"
+    "Country Prefix": "43",
+    "Country Name": "Austria",
+    "Network Name": "Austria Landline",
+    "mcc": "232",
+    "mnc": "",
+    "mccmnc": "232"
   },
   {
-    "Country Code": "1",
-    "Country": "Canada",
-    "Network": "Canada - Landline and Other Carriers",
-    "MCCMNC": "302000"
+    "Country Prefix": "971",
+    "Country Name": "United Arab Emirates",
+    "Network Name": "Etisalat (Emirates Telecom Corp)",
+    "mcc": "424",
+    "mnc": "02",
+    "mccmnc": "42402"
   },
   {
-    "Country Code": "1",
-    "Country": "Canada",
-    "Network": "Videotron",
-    "MCCMNC": "302500"
+    "Country Prefix": "359",
+    "Country Name": "Bulgaria",
+    "Network Name": "A1 (M-TEL)",
+    "mcc": "284",
+    "mnc": "01",
+    "mccmnc": "28401"
   },
   {
-    "Country Code": "235",
-    "Country": "Chad",
-    "Network": "Airtel Chad",
-    "MCCMNC": "62201"
+    "Country Prefix": "20",
+    "Country Name": "Egypt",
+    "Network Name": "Egypt Landline",
+    "mcc": "602",
+    "mnc": "",
+    "mccmnc": "602"
   },
   {
-    "Country Code": "56",
-    "Country": "Chile",
-    "Network": "Movistar (Telefonica Movil de Chile)",
-    "MCCMNC": "73002"
+    "Country Prefix": "998",
+    "Country Name": "Uzbekistan",
+    "Network Name": "UCell (Coscom)",
+    "mcc": "434",
+    "mnc": "05",
+    "mccmnc": "43405"
   },
   {
-    "Country Code": "86",
-    "Country": "China",
-    "Network": "China Mobile",
-    "MCCMNC": "46000"
+    "Country Prefix": "507",
+    "Country Name": "Panama",
+    "Network Name": "Mas Movil (Cable & Wireless Panama)",
+    "mcc": "714",
+    "mnc": "01",
+    "mccmnc": "71401"
   },
   {
-    "Country Code": "86",
-    "Country": "China",
-    "Network": "China Unicom",
-    "MCCMNC": "46001"
+    "Country Prefix": "46",
+    "Country Name": "Sweden",
+    "Network Name": "MNO - 3 (Hi3G Access AB)",
+    "mcc": "240",
+    "mnc": "02",
+    "mccmnc": "24002"
   },
   {
-    "Country Code": "86",
-    "Country": "China",
-    "Network": "China Telecom (CDMA)",
-    "MCCMNC": "46003"
+    "Country Prefix": "1",
+    "Country Name": "Canada",
+    "Network Name": "Ice Wireless (Iristel)",
+    "mcc": "302",
+    "mnc": "620",
+    "mccmnc": "302620"
   },
   {
-    "Country Code": "57",
-    "Country": "Colombia",
-    "Network": "Tigo (Colombia Movil S.A.)",
-    "MCCMNC": "732103"
+    "Country Prefix": "962",
+    "Country Name": "Jordan",
+    "Network Name": "Orange (Jordan Telecom Group)",
+    "mcc": "416",
+    "mnc": "77",
+    "mccmnc": "41677"
   },
   {
-    "Country Code": "57",
-    "Country": "Colombia",
-    "Network": "Movistar (Telefonica Moviles Colombia S.A.)",
-    "MCCMNC": "732123"
+    "Country Prefix": "1",
+    "Country Name": "United States",
+    "Network Name": "Verizon Wireless",
+    "mcc": "311",
+    "mnc": "480",
+    "mccmnc": "311480"
   },
   {
-    "Country Code": "57",
-    "Country": "Colombia",
-    "Network": "Claro (Comcel - Comunicacion Celular S.A.)",
-    "MCCMNC": "732101"
+    "Country Prefix": "48",
+    "Country Name": "Poland",
+    "Network Name": "Orange (PTK Centertel Sp. z o.o.)",
+    "mcc": "260",
+    "mnc": "03",
+    "mccmnc": "26003"
   },
   {
-    "Country Code": "57",
-    "Country": "Colombia",
-    "Network": "WOM (Partners Telecom Colombia SAS)",
-    "MCCMNC": "732360"
+    "Country Prefix": "7",
+    "Country Name": "Kazakhstan",
+    "Network Name": "Tele2",
+    "mcc": "401",
+    "mnc": "77",
+    "mccmnc": "40177"
   },
   {
-    "Country Code": "269",
-    "Country": "Comoros",
-    "Network": "HURI (Comoros Telecom)",
-    "MCCMNC": "65401"
+    "Country Prefix": "44",
+    "Country Name": "United Kingdom",
+    "Network Name": "MNO - Sky UK Limited",
+    "mcc": "234",
+    "mnc": "57",
+    "mccmnc": "23457"
   },
   {
-    "Country Code": "242",
-    "Country": "Congo",
-    "Network": "Airtel Congo Brazzaville",
-    "MCCMNC": "62901"
+    "Country Prefix": "1",
+    "Country Name": "United States",
+    "Network Name": "USA - Area Codes",
+    "mcc": "316",
+    "mnc": "999",
+    "mccmnc": "316999"
   },
   {
-    "Country Code": "242",
-    "Country": "Congo",
-    "Network": "Warid Congo",
-    "MCCMNC": "62907"
+    "Country Prefix": "421",
+    "Country Name": "Slovakia",
+    "Network Name": "Orange Slovensko",
+    "mcc": "231",
+    "mnc": "01",
+    "mccmnc": "23101"
   },
   {
-    "Country Code": "243",
-    "Country": "Congo (Democratic Republic)",
-    "Network": "Vodacom Congo",
-    "MCCMNC": "63001"
+    "Country Prefix": "39",
+    "Country Name": "Italy",
+    "Network Name": "MNO - Wind Telecomunicazioni SpA",
+    "mcc": "222",
+    "mnc": "88",
+    "mccmnc": "22288"
   },
   {
-    "Country Code": "243",
-    "Country": "Congo (Democratic Republic)",
-    "Network": "Airtel D.R. of Congo",
-    "MCCMNC": "63002"
+    "Country Prefix": "234",
+    "Country Name": "Nigeria",
+    "Network Name": "Glo Mobile (Globacom Ltd)",
+    "mcc": "621",
+    "mnc": "50",
+    "mccmnc": "62150"
   },
   {
-    "Country Code": "243",
-    "Country": "Congo (Democratic Republic)",
-    "Network": "Orange RDC (C.C.T.)",
-    "MCCMNC": "63086"
+    "Country Prefix": "47",
+    "Country Name": "Norway",
+    "Network Name": "Telenor Norge AS",
+    "mcc": "242",
+    "mnc": "01",
+    "mccmnc": "24201"
   },
   {
-    "Country Code": "243",
-    "Country": "Congo (Democratic Republic)",
-    "Network": "DR Congo Landline",
-    "MCCMNC": "630"
+    "Country Prefix": "373",
+    "Country Name": "Moldova",
+    "Network Name": "Moldova Landline",
+    "mcc": "259",
+    "mnc": "",
+    "mccmnc": "259"
   },
   {
-    "Country Code": "506",
-    "Country": "Costa Rica",
-    "Network": "Kolbi ICE (Instituto Costarricense de Electricidad)",
-    "MCCMNC": "71201"
+    "Country Prefix": "1",
+    "Country Name": "United States",
+    "Network Name": "AT&T Mobility",
+    "mcc": "310",
+    "mnc": "410",
+    "mccmnc": "310410"
   },
   {
-    "Country Code": "506",
-    "Country": "Costa Rica",
-    "Network": "Claro CR",
-    "MCCMNC": "71203"
+    "Country Prefix": "45",
+    "Country Name": "Denmark",
+    "Network Name": "MVNO - OiSTER (Hi3G MVNO)",
+    "mcc": "238",
+    "mnc": "06",
+    "mccmnc": "23806"
   },
   {
-    "Country Code": "506",
-    "Country": "Costa Rica",
-    "Network": "Costa Rica Landline",
-    "MCCMNC": "712"
+    "Country Prefix": "45",
+    "Country Name": "Denmark",
+    "Network Name": "MNO - Nuuday (TDC)",
+    "mcc": "238",
+    "mnc": "01",
+    "mccmnc": "23801"
   },
   {
-    "Country Code": "506",
-    "Country": "Costa Rica",
-    "Network": "movistar (Telefonica de Costa Rica TC)",
-    "MCCMNC": "71204"
+    "Country Prefix": "45",
+    "Country Name": "Denmark",
+    "Network Name": "MVNO - Lycamobile Denmark Ltd (MVNO)",
+    "mcc": "238",
+    "mnc": "12",
+    "mccmnc": "23812"
   },
   {
-    "Country Code": "225",
-    "Country": "Cote d'Ivoire",
-    "Network": "Orange CI",
-    "MCCMNC": "61203"
+    "Country Prefix": "45",
+    "Country Name": "Denmark",
+    "Network Name": "MVNO - Callme (Telia MVNO)",
+    "mcc": "238",
+    "mnc": "",
+    "mccmnc": "238"
   },
   {
-    "Country Code": "225",
-    "Country": "Cote d'Ivoire",
-    "Network": "MTN CI",
-    "MCCMNC": "61205"
+    "Country Prefix": "45",
+    "Country Name": "Denmark",
+    "Network Name": "MVNO - Ipnordic A/S (TDC MVNO)",
+    "mcc": "238",
+    "mnc": "01",
+    "mccmnc": "23801"
   },
   {
-    "Country Code": "385",
-    "Country": "Croatia",
-    "Network": "Telemach (ex TELE2)",
-    "MCCMNC": "21902"
+    "Country Prefix": "996",
+    "Country Name": "Kyrgyzstan",
+    "Network Name": "MEGACOM (Alfa Telecom Joint Stock Company)",
+    "mcc": "437",
+    "mnc": "05",
+    "mccmnc": "43705"
   },
   {
-    "Country Code": "385",
-    "Country": "Croatia",
-    "Network": "T-Mobile HR",
-    "MCCMNC": "21901"
+    "Country Prefix": "57",
+    "Country Name": "Colombia",
+    "Network Name": "Tigo (Colombia Movil S.A.)",
+    "mcc": "732",
+    "mnc": "103",
+    "mccmnc": "732103"
   },
   {
-    "Country Code": "385",
-    "Country": "Croatia",
-    "Network": "A1 (VIP-NET)",
-    "MCCMNC": "21910"
+    "Country Prefix": "380",
+    "Country Name": "Ukraine",
+    "Network Name": "life:) (Astelit)",
+    "mcc": "255",
+    "mnc": "06",
+    "mccmnc": "25506"
   },
   {
-    "Country Code": "385",
-    "Country": "Croatia",
-    "Network": "Croatia Landline",
-    "MCCMNC": "219"
+    "Country Prefix": "60",
+    "Country Name": "Malaysia",
+    "Network Name": "DiGi Telecommunications",
+    "mcc": "502",
+    "mnc": "16",
+    "mccmnc": "50216"
   },
   {
-    "Country Code": "53",
-    "Country": "Cuba",
-    "Network": "Cuba Landline",
-    "MCCMNC": "368"
+    "Country Prefix": "375",
+    "Country Name": "Belarus",
+    "Network Name": "MTS (JLLC Mobile TeleSystems)",
+    "mcc": "257",
+    "mnc": "02",
+    "mccmnc": "25702"
   },
   {
-    "Country Code": "53",
-    "Country": "Cuba",
-    "Network": "ETECSA (Empresa de Telecommunicaciones de Cuba)",
-    "MCCMNC": "36801"
+    "Country Prefix": "98",
+    "Country Name": "Iran",
+    "Network Name": "MCI (Mobile Communications Company of Iran)",
+    "mcc": "432",
+    "mnc": "11",
+    "mccmnc": "43211"
   },
   {
-    "Country Code": "357",
-    "Country": "Cyprus",
-    "Network": "Cyprus Landline",
-    "MCCMNC": "280"
+    "Country Prefix": "966",
+    "Country Name": "Saudi Arabia",
+    "Network Name": "STC (Saudi Telecom Company)",
+    "mcc": "420",
+    "mnc": "01",
+    "mccmnc": "42001"
   },
   {
-    "Country Code": "357",
-    "Country": "Cyprus",
-    "Network": "epic (ex MTN)",
-    "MCCMNC": "28010"
+    "Country Prefix": "420",
+    "Country Name": "Czech Republic",
+    "Network Name": "Vodafone CZ",
+    "mcc": "230",
+    "mnc": "03",
+    "mccmnc": "23003"
   },
   {
-    "Country Code": "357",
-    "Country": "Cyprus",
-    "Network": "Cablenet Cyprus (LemonTel, Cytamobile MVNO)",
-    "MCCMNC": "28022"
+    "Country Prefix": "599",
+    "Country Name": "Caribbean Netherlands",
+    "Network Name": "Chippie UTS",
+    "mcc": "362",
+    "mnc": "59",
+    "mccmnc": "36259"
   },
   {
-    "Country Code": "357",
-    "Country": "Cyprus",
-    "Network": "Cytamobile-Vodafone",
-    "MCCMNC": "28001"
+    "Country Prefix": "92",
+    "Country Name": "Pakistan",
+    "Network Name": "Pakistan Landline",
+    "mcc": "410",
+    "mnc": "",
+    "mccmnc": "410"
   },
   {
-    "Country Code": "420",
-    "Country": "Czech Republic",
-    "Network": "Vodafone CZ",
-    "MCCMNC": "23003"
+    "Country Prefix": "32",
+    "Country Name": "Belgium",
+    "Network Name": "Lancelot (not in use)",
+    "mcc": "206",
+    "mnc": "98",
+    "mccmnc": "20698"
   },
   {
-    "Country Code": "420",
-    "Country": "Czech Republic",
-    "Network": "T-Mobile CZ",
-    "MCCMNC": "23001"
+    "Country Prefix": "380",
+    "Country Name": "Ukraine",
+    "Network Name": "Kyivstar",
+    "mcc": "255",
+    "mnc": "03",
+    "mccmnc": "25503"
   },
   {
-    "Country Code": "420",
-    "Country": "Czech Republic",
-    "Network": "Telefonica O2 CZ",
-    "MCCMNC": "23002"
+    "Country Prefix": "992",
+    "Country Name": "Tajikistan",
+    "Network Name": "MegaFon Tajikistan (TT Mobile)",
+    "mcc": "436",
+    "mnc": "03",
+    "mccmnc": "43603"
   },
   {
-    "Country Code": "45",
-    "Country": "Denmark",
-    "Network": "MNO - Telenor Denmark",
-    "MCCMNC": "23802"
+    "Country Prefix": "32",
+    "Country Name": "Belgium",
+    "Network Name": "Telenet NV (Orange MVNO)",
+    "mcc": "206",
+    "mnc": "05",
+    "mccmnc": "20605"
   },
   {
-    "Country Code": "45",
-    "Country": "Denmark",
-    "Network": "MNO - 3 DK (Hi3G Denmark ApS)",
-    "MCCMNC": "23806"
+    "Country Prefix": "213",
+    "Country Name": "Algeria",
+    "Network Name": "Djezzy (Orascom Telecom Algerie)",
+    "mcc": "603",
+    "mnc": "02",
+    "mccmnc": "60302"
   },
   {
-    "Country Code": "45",
-    "Country": "Denmark",
-    "Network": "MNO - Telia DK",
-    "MCCMNC": "23820"
+    "Country Prefix": "98",
+    "Country Name": "Iran",
+    "Network Name": "MTN Irancell",
+    "mcc": "432",
+    "mnc": "35",
+    "mccmnc": "43235"
   },
   {
-    "Country Code": "45",
-    "Country": "Denmark",
-    "Network": "MVNO - TEL42 (MVNO)",
-    "MCCMNC": "23842"
+    "Country Prefix": "53",
+    "Country Name": "Cuba",
+    "Network Name": "ETECSA (Empresa de Telecommunicaciones de Cuba)",
+    "mcc": "368",
+    "mnc": "01",
+    "mccmnc": "36801"
   },
   {
-    "Country Code": "45",
-    "Country": "Denmark",
-    "Network": "MVNO - Callme (Telia MVNO)",
-    "MCCMNC": "238"
+    "Country Prefix": "380",
+    "Country Name": "Ukraine",
+    "Network Name": "Ukraine Landline",
+    "mcc": "255",
+    "mnc": "",
+    "mccmnc": "255"
   },
   {
-    "Country Code": "45",
-    "Country": "Denmark",
-    "Network": "MVNO - TELMORE (TDC MVNO)",
-    "MCCMNC": "23801"
+    "Country Prefix": "47",
+    "Country Name": "Norway",
+    "Network Name": "ICE Communication Norge AS",
+    "mcc": "242",
+    "mnc": "14",
+    "mccmnc": "24214"
   },
   {
-    "Country Code": "45",
-    "Country": "Denmark",
-    "Network": "MVNO - CBB Mobil (Telenor MVNO)",
-    "MCCMNC": "23802"
+    "Country Prefix": "963",
+    "Country Name": "Syria",
+    "Network Name": "Syria Landline - Syria Telecom",
+    "mcc": "417",
+    "mnc": "",
+    "mccmnc": "417"
   },
   {
-    "Country Code": "45",
-    "Country": "Denmark",
-    "Network": "MVNO - OiSTER (Hi3G MVNO)",
-    "MCCMNC": "23806"
+    "Country Prefix": "41",
+    "Country Name": "Switzerland",
+    "Network Name": "Salt Mobile SA (ex.Orange)",
+    "mcc": "228",
+    "mnc": "03",
+    "mccmnc": "22803"
   },
   {
-    "Country Code": "45",
-    "Country": "Denmark",
-    "Network": "MNO - Nuuday (TDC)",
-    "MCCMNC": "23801"
+    "Country Prefix": "7",
+    "Country Name": "Abkhazia",
+    "Network Name": "Aquafon",
+    "mcc": "289",
+    "mnc": "67",
+    "mccmnc": "28967"
   },
   {
-    "Country Code": "45",
-    "Country": "Denmark",
-    "Network": "MVNO - Lebara Mobile (Telenor MVNO)",
-    "MCCMNC": "23802"
+    "Country Prefix": "998",
+    "Country Name": "Uzbekistan",
+    "Network Name": "UMS (MTS)",
+    "mcc": "434",
+    "mnc": "07",
+    "mccmnc": "43407"
   },
   {
-    "Country Code": "45",
-    "Country": "Denmark",
-    "Network": "Landline Denmark",
-    "MCCMNC": "238"
+    "Country Prefix": "228",
+    "Country Name": "Togo",
+    "Network Name": "Togo Cell (Togo Telecom)",
+    "mcc": "615",
+    "mnc": "01",
+    "mccmnc": "61501"
   },
   {
-    "Country Code": "45",
-    "Country": "Denmark",
-    "Network": "MVNO - Dstny (TDC MVNO)",
-    "MCCMNC": "23801"
+    "Country Prefix": "1",
+    "Country Name": "Puerto Rico",
+    "Network Name": "Puerto Rico - Landline and Other Carriers",
+    "mcc": "330",
+    "mnc": "000",
+    "mccmnc": "330000"
   },
   {
-    "Country Code": "45",
-    "Country": "Denmark",
-    "Network": "MVNO - Telenabler (TDC MVNO)",
-    "MCCMNC": "23801"
+    "Country Prefix": "383",
+    "Country Name": "Kosovo",
+    "Network Name": "Z-Mobile (Dardafon.Net) (VALA MVNO)",
+    "mcc": "221",
+    "mnc": "06",
+    "mccmnc": "22106"
   },
   {
-    "Country Code": "45",
-    "Country": "Denmark",
-    "Network": "MVNO - Lycamobile Denmark Ltd (MVNO)",
-    "MCCMNC": "23812"
+    "Country Prefix": "82",
+    "Country Name": "Korea, the Republic of",
+    "Network Name": "KT Freetel",
+    "mcc": "450",
+    "mnc": "08",
+    "mccmnc": "45008"
   },
   {
-    "Country Code": "45",
-    "Country": "Denmark",
-    "Network": "MVNO - Companymobile A/S (TDC MVNO)",
-    "MCCMNC": "23801"
+    "Country Prefix": "386",
+    "Country Name": "Slovenia",
+    "Network Name": "Mobitel (Telekom Slovenije)",
+    "mcc": "293",
+    "mnc": "41",
+    "mccmnc": "29341"
   },
   {
-    "Country Code": "45",
-    "Country": "Denmark",
-    "Network": "MVNO - Benemen (TDC MVNO)",
-    "MCCMNC": "23801"
+    "Country Prefix": "91",
+    "Country Name": "India",
+    "Network Name": "Reliance Jio // Kerala",
+    "mcc": "405",
+    "mnc": "862",
+    "mccmnc": "405862"
   },
   {
-    "Country Code": "45",
-    "Country": "Denmark",
-    "Network": "MVNO - MVNO_2 (Telenor MVNO)",
-    "MCCMNC": "23802"
+    "Country Prefix": "995",
+    "Country Name": "Georgia",
+    "Network Name": "Georgia Landline",
+    "mcc": "282",
+    "mnc": "",
+    "mccmnc": "282"
   },
   {
-    "Country Code": "45",
-    "Country": "Denmark",
-    "Network": "MVNO - Ipnordic A/S (TDC MVNO)",
-    "MCCMNC": "23801"
+    "Country Prefix": "994",
+    "Country Name": "Azerbaijan",
+    "Network Name": "Naxtel",
+    "mcc": "400",
+    "mnc": "06",
+    "mccmnc": "40006"
   },
   {
-    "Country Code": "45",
-    "Country": "Denmark",
-    "Network": "MVNO - Firmafon ApS (TDC MVNO)",
-    "MCCMNC": "23801"
+    "Country Prefix": "63",
+    "Country Name": "Philippines",
+    "Network Name": "Philippines Landline",
+    "mcc": "515",
+    "mnc": "",
+    "mccmnc": "515"
   },
   {
-    "Country Code": "45",
-    "Country": "Denmark",
-    "Network": "MNO - Lancelot",
-    "MCCMNC": "23898"
+    "Country Prefix": "386",
+    "Country Name": "Slovenia",
+    "Network Name": "T-2",
+    "mcc": "293",
+    "mnc": "64",
+    "mccmnc": "29364"
   },
   {
-    "Country Code": "253",
-    "Country": "Djibouti",
-    "Network": "Evatis (Djibouti Telecom SA)",
-    "MCCMNC": "63801"
+    "Country Prefix": "39",
+    "Country Name": "Italy",
+    "Network Name": "MNO - Vodafone Italy",
+    "mcc": "222",
+    "mnc": "10",
+    "mccmnc": "22210"
   },
   {
-    "Country Code": "1",
-    "Country": "Dominican Republic",
-    "Network": "Claro (Compania Dominicana de Telefonos)",
-    "MCCMNC": "37002"
+    "Country Prefix": "1",
+    "Country Name": "United States",
+    "Network Name": "Google Voice",
+    "mcc": "312",
+    "mnc": "999",
+    "mccmnc": "312999"
   },
   {
-    "Country Code": "1",
-    "Country": "Dominican Republic",
-    "Network": "Altice (Orange Dominicana)",
-    "MCCMNC": "37001"
+    "Country Prefix": "961",
+    "Country Name": "Lebanon",
+    "Network Name": "MTC-Touch (MIC 2)",
+    "mcc": "415",
+    "mnc": "03",
+    "mccmnc": "41503"
   },
   {
-    "Country Code": "593",
-    "Country": "Ecuador",
-    "Network": "Claro Ecuador (Conecel S.A.)",
-    "MCCMNC": "74001"
+    "Country Prefix": "386",
+    "Country Name": "Slovenia",
+    "Network Name": "Telemach (Tusmobil)",
+    "mcc": "293",
+    "mnc": "70",
+    "mccmnc": "29370"
   },
   {
-    "Country Code": "20",
-    "Country": "Egypt",
-    "Network": "Orange (ex. Mobinil)",
-    "MCCMNC": "60201"
+    "Country Prefix": "1",
+    "Country Name": "Jamaica",
+    "Network Name": "Digicel Jamaica",
+    "mcc": "338",
+    "mnc": "050",
+    "mccmnc": "338050"
   },
   {
-    "Country Code": "20",
-    "Country": "Egypt",
-    "Network": "Telecom Egypt",
-    "MCCMNC": "60204"
+    "Country Prefix": "977",
+    "Country Name": "Nepal",
+    "Network Name": "Ncell (Spice Nepal Private Ltd)",
+    "mcc": "429",
+    "mnc": "02",
+    "mccmnc": "42902"
   },
   {
-    "Country Code": "20",
-    "Country": "Egypt",
-    "Network": "Vodafone Egypt",
-    "MCCMNC": "60202"
+    "Country Prefix": "44",
+    "Country Name": "United Kingdom",
+    "Network Name": "United Kingdom Landline",
+    "mcc": "234",
+    "mnc": "",
+    "mccmnc": "234"
   },
   {
-    "Country Code": "20",
-    "Country": "Egypt",
-    "Network": "Etisalat Egypt",
-    "MCCMNC": "60203"
+    "Country Prefix": "84",
+    "Country Name": "Vietnam",
+    "Network Name": "Vinaphone (Vietnam Telecom Services Company)",
+    "mcc": "452",
+    "mnc": "02",
+    "mccmnc": "45202"
   },
   {
-    "Country Code": "20",
-    "Country": "Egypt",
-    "Network": "Egypt Landline",
-    "MCCMNC": "602"
+    "Country Prefix": "48",
+    "Country Name": "Poland",
+    "Network Name": "Plus (Polkomtel S.A.)",
+    "mcc": "260",
+    "mnc": "01",
+    "mccmnc": "26001"
   },
   {
-    "Country Code": "240",
-    "Country": "Equatorial Guinea",
-    "Network": "Orange GQ (GETESA)",
-    "MCCMNC": "62701"
+    "Country Prefix": "371",
+    "Country Name": "Latvia",
+    "Network Name": "LMT GSM (Latvijas Mobilais Telefons)",
+    "mcc": "247",
+    "mnc": "01",
+    "mccmnc": "24701"
   },
   {
-    "Country Code": "291",
-    "Country": "Eritrea",
-    "Network": "Eritel (Eritrea Telecommunications Services Corporation)",
-    "MCCMNC": "65701"
+    "Country Prefix": "57",
+    "Country Name": "Colombia",
+    "Network Name": "Movistar (Telefonica Moviles Colombia S.A.)",
+    "mcc": "732",
+    "mnc": "123",
+    "mccmnc": "732123"
   },
   {
-    "Country Code": "372",
-    "Country": "Estonia",
-    "Network": "Elisa Eesti",
-    "MCCMNC": "24802"
+    "Country Prefix": "507",
+    "Country Name": "Panama",
+    "Network Name": "Tigo Panama",
+    "mcc": "714",
+    "mnc": "02",
+    "mccmnc": "71402"
   },
   {
-    "Country Code": "372",
-    "Country": "Estonia",
-    "Network": "Telia Eesti AS (EMT)",
-    "MCCMNC": "24801"
+    "Country Prefix": "52",
+    "Country Name": "Mexico",
+    "Network Name": "Telcel (Radiomovil Dipsa S.A.)",
+    "mcc": "334",
+    "mnc": "02",
+    "mccmnc": "33402"
   },
   {
-    "Country Code": "372",
-    "Country": "Estonia",
-    "Network": "Tele 2 Eesti",
-    "MCCMNC": "24803"
+    "Country Prefix": "371",
+    "Country Name": "Latvia",
+    "Network Name": "Bite Latvija",
+    "mcc": "247",
+    "mnc": "05",
+    "mccmnc": "24705"
   },
   {
-    "Country Code": "372",
-    "Country": "Estonia",
-    "Network": "Estonia Landline",
-    "MCCMNC": "248"
+    "Country Prefix": "1",
+    "Country Name": "Canada",
+    "Network Name": "Rogers Wireless",
+    "mcc": "302",
+    "mnc": "720",
+    "mccmnc": "302720"
   },
   {
-    "Country Code": "251",
-    "Country": "Ethiopia",
-    "Network": "ETMTN (Ethio-Telecom)",
-    "MCCMNC": "63601"
+    "Country Prefix": "358",
+    "Country Name": "Finland",
+    "Network Name": "Elisa Oyj",
+    "mcc": "244",
+    "mnc": "05",
+    "mccmnc": "24405"
   },
   {
-    "Country Code": "251",
-    "Country": "Ethiopia",
-    "Network": "Safaricom Telecommunications",
-    "MCCMNC": "63602"
+    "Country Prefix": "506",
+    "Country Name": "Costa Rica",
+    "Network Name": "Costa Rica Landline",
+    "mcc": "712",
+    "mnc": "",
+    "mccmnc": "712"
   },
   {
-    "Country Code": "298",
-    "Country": "Faroe Islands",
-    "Network": "HEY (VODAFONE)",
-    "MCCMNC": "28802"
+    "Country Prefix": "40",
+    "Country Name": "Romania",
+    "Network Name": "DIGI Mobil (RCS & RDS)",
+    "mcc": "226",
+    "mnc": "05",
+    "mccmnc": "22605"
   },
   {
-    "Country Code": "679",
-    "Country": "Fiji",
-    "Network": "Digicel Fiji",
-    "MCCMNC": "54202"
+    "Country Prefix": "31",
+    "Country Name": "Netherlands",
+    "Network Name": "KPN B.V. (Telfort B.V.)",
+    "mcc": "204",
+    "mnc": "12",
+    "mccmnc": "20412"
   },
   {
-    "Country Code": "679",
-    "Country": "Fiji",
-    "Network": "Vodafone Fiji",
-    "MCCMNC": "54201"
+    "Country Prefix": "31",
+    "Country Name": "Netherlands",
+    "Network Name": "Tata Communications MOVE B.V. (exTeleena)",
+    "mcc": "204",
+    "mnc": "07",
+    "mccmnc": "20407"
   },
   {
-    "Country Code": "358",
-    "Country": "Finland",
-    "Network": "Elisa Oyj",
-    "MCCMNC": "24405"
+    "Country Prefix": "992",
+    "Country Name": "Tajikistan",
+    "Network Name": "Tcell (fka Indigo)",
+    "mcc": "436",
+    "mnc": "01",
+    "mccmnc": "43601"
   },
   {
-    "Country Code": "358",
-    "Country": "Finland",
-    "Network": "Telia (Sonera Finland Oyj)",
-    "MCCMNC": "24491"
+    "Country Prefix": "86",
+    "Country Name": "China",
+    "Network Name": "China Landline",
+    "mcc": "460",
+    "mnc": "",
+    "mccmnc": "460"
   },
   {
-    "Country Code": "358",
-    "Country": "Finland",
-    "Network": "DNA Ltd",
-    "MCCMNC": "24412"
+    "Country Prefix": "234",
+    "Country Name": "Nigeria",
+    "Network Name": "Nigeria Landline",
+    "mcc": "621",
+    "mnc": "",
+    "mccmnc": "621"
   },
   {
-    "Country Code": "358",
-    "Country": "Finland",
-    "Network": "Finland Landline",
-    "MCCMNC": "244"
+    "Country Prefix": "33",
+    "Country Name": "France",
+    "Network Name": "France Landline",
+    "mcc": "208",
+    "mnc": "",
+    "mccmnc": "208"
   },
   {
-    "Country Code": "358",
-    "Country": "Finland",
-    "Network": "Alands Mobiltelefon AB",
-    "MCCMNC": "24414"
+    "Country Prefix": "234",
+    "Country Name": "Nigeria",
+    "Network Name": "9mobile (ex. Etisalat)",
+    "mcc": "621",
+    "mnc": "60",
+    "mccmnc": "62160"
   },
   {
-    "Country Code": "33",
-    "Country": "France",
-    "Network": "MNO - Free Mobile",
-    "MCCMNC": "20815"
+    "Country Prefix": "31",
+    "Country Name": "Netherlands",
+    "Network Name": "Lycamobile (KPN MVNO)",
+    "mcc": "204",
+    "mnc": "09",
+    "mccmnc": "20409"
   },
   {
-    "Country Code": "33",
-    "Country": "France",
-    "Network": "MNO - Bouygues Telecom",
-    "MCCMNC": "20820"
+    "Country Prefix": "373",
+    "Country Name": "Moldova",
+    "Network Name": "IDC (Interdnestrcom) (CDMA)",
+    "mcc": "259",
+    "mnc": "03",
+    "mccmnc": "25903"
   },
   {
-    "Country Code": "33",
-    "Country": "France",
-    "Network": "MNO - SFR",
-    "MCCMNC": "20810"
+    "Country Prefix": "48",
+    "Country Name": "Poland",
+    "Network Name": "T-Mobile.pl ERA (Polska Telefonia Cyfrowa Sp. z o.o.)",
+    "mcc": "260",
+    "mnc": "02",
+    "mccmnc": "26002"
   },
   {
-    "Country Code": "33",
-    "Country": "France",
-    "Network": "MNO - Orange",
-    "MCCMNC": "20801"
+    "Country Prefix": "47",
+    "Country Name": "Norway",
+    "Network Name": "TELIA (NetCom)",
+    "mcc": "242",
+    "mnc": "02",
+    "mccmnc": "24202"
   },
   {
-    "Country Code": "33",
-    "Country": "France",
-    "Network": "MVNO - NRJ Mobile (Euro-Information telecom)",
-    "MCCMNC": "20826"
+    "Country Prefix": "970",
+    "Country Name": "Palestine",
+    "Network Name": "Jawwal (Palestine Telecomm)",
+    "mcc": "425",
+    "mnc": "05",
+    "mccmnc": "42505"
   },
   {
-    "Country Code": "33",
-    "Country": "France",
-    "Network": "France Landline",
-    "MCCMNC": "208"
+    "Country Prefix": "963",
+    "Country Name": "Syria",
+    "Network Name": "Syria minor carriers",
+    "mcc": "417",
+    "mnc": "01",
+    "mccmnc": "41701"
   },
   {
-    "Country Code": "33",
-    "Country": "France",
-    "Network": "MVNO - Lycamobile",
-    "MCCMNC": "20825"
+    "Country Prefix": "62",
+    "Country Name": "Indonesia",
+    "Network Name": "Telkomsel (PT Telekomunikasi Selular)",
+    "mcc": "510",
+    "mnc": "10",
+    "mccmnc": "51010"
   },
   {
-    "Country Code": "33",
-    "Country": "France",
-    "Network": "MVNO - Transatel",
-    "MCCMNC": "20822"
+    "Country Prefix": "60",
+    "Country Name": "Malaysia",
+    "Network Name": "Maxis Bhd",
+    "mcc": "502",
+    "mnc": "12",
+    "mccmnc": "50212"
   },
   {
-    "Country Code": "33",
-    "Country": "France",
-    "Network": "Premium France",
-    "MCCMNC": "208"
+    "Country Prefix": "357",
+    "Country Name": "Cyprus",
+    "Network Name": "Cytamobile-Vodafone",
+    "mcc": "280",
+    "mnc": "01",
+    "mccmnc": "28001"
   },
   {
-    "Country Code": "33",
-    "Country": "France",
-    "Network": "MVNO - SYMA Mobile",
-    "MCCMNC": "20830"
+    "Country Prefix": "420",
+    "Country Name": "Czech Republic",
+    "Network Name": "Telefonica O2 CZ",
+    "mcc": "230",
+    "mnc": "02",
+    "mccmnc": "23002"
   },
   {
-    "Country Code": "33",
-    "Country": "France",
-    "Network": "MVNO - Legos",
-    "MCCMNC": "20817"
+    "Country Prefix": "509",
+    "Country Name": "Haiti",
+    "Network Name": "Digicel Haiti",
+    "mcc": "372",
+    "mnc": "02",
+    "mccmnc": "37202"
   },
   {
-    "Country Code": "33",
-    "Country": "France",
-    "Network": "MVNO - Coriolis Telecom (MVNO)",
-    "MCCMNC": "20827"
+    "Country Prefix": "966",
+    "Country Name": "Saudi Arabia",
+    "Network Name": "Zain SA (MTC Saudi Arabia)",
+    "mcc": "420",
+    "mnc": "04",
+    "mccmnc": "42004"
   },
   {
-    "Country Code": "33",
-    "Country": "France",
-    "Network": "MVNO - Lebara",
-    "MCCMNC": "20838"
+    "Country Prefix": "33",
+    "Country Name": "France",
+    "Network Name": "MVNO - Lycamobile",
+    "mcc": "208",
+    "mnc": "25",
+    "mccmnc": "20825"
   },
   {
-    "Country Code": "594",
-    "Country": "French Guiana",
-    "Network": "Outremer Telecom",
-    "MCCMNC": "34002"
+    "Country Prefix": "968",
+    "Country Name": "Oman",
+    "Network Name": "OMAN MOBILE (Oman Telecommunications Company)",
+    "mcc": "422",
+    "mnc": "02",
+    "mccmnc": "42202"
   },
   {
-    "Country Code": "241",
-    "Country": "Gabon",
-    "Network": "Gabon Telecom Moov (ex Libertis)",
-    "MCCMNC": "62801"
+    "Country Prefix": "351",
+    "Country Name": "Portugal",
+    "Network Name": "Vodafone Portugal",
+    "mcc": "268",
+    "mnc": "01",
+    "mccmnc": "26801"
   },
   {
-    "Country Code": "241",
-    "Country": "Gabon",
-    "Network": "Airtel Gabon",
-    "MCCMNC": "62803"
+    "Country Prefix": "82",
+    "Country Name": "Korea, the Republic of",
+    "Network Name": "SK Telecom",
+    "mcc": "450",
+    "mnc": "05",
+    "mccmnc": "45005"
   },
   {
-    "Country Code": "220",
-    "Country": "Gambia",
-    "Network": "Qcell",
-    "MCCMNC": "60704"
+    "Country Prefix": "7",
+    "Country Name": "Russian Federation",
+    "Network Name": "MCN Telecom (Tele2 MVNO)",
+    "mcc": "250",
+    "mnc": "37",
+    "mccmnc": "25037"
   },
   {
-    "Country Code": "220",
-    "Country": "Gambia",
-    "Network": "Africell Gambia",
-    "MCCMNC": "60702"
+    "Country Prefix": "20",
+    "Country Name": "Egypt",
+    "Network Name": "Vodafone Egypt",
+    "mcc": "602",
+    "mnc": "02",
+    "mccmnc": "60202"
   },
   {
-    "Country Code": "995",
-    "Country": "Georgia",
-    "Network": "Geocell (Silknet)",
-    "MCCMNC": "28201"
+    "Country Prefix": "964",
+    "Country Name": "Iraq",
+    "Network Name": "zain IQ (Atheer Telecom Iraq)",
+    "mcc": "418",
+    "mnc": "20",
+    "mccmnc": "41820"
   },
   {
-    "Country Code": "995",
-    "Country": "Georgia",
-    "Network": "Beeline (Mobitel)",
-    "MCCMNC": "28204"
+    "Country Prefix": "233",
+    "Country Name": "Ghana",
+    "Network Name": "MTN (Scancom Ghana Ltd)",
+    "mcc": "620",
+    "mnc": "01",
+    "mccmnc": "62001"
   },
   {
-    "Country Code": "995",
-    "Country": "Georgia",
-    "Network": "MagtiCom",
-    "MCCMNC": "28202"
+    "Country Prefix": "254",
+    "Country Name": "Kenya",
+    "Network Name": "Safaricom",
+    "mcc": "639",
+    "mnc": "02",
+    "mccmnc": "63902"
   },
   {
-    "Country Code": "995",
-    "Country": "Georgia",
-    "Network": "Georgia Landline",
-    "MCCMNC": "282"
+    "Country Prefix": "33",
+    "Country Name": "France",
+    "Network Name": "MVNO - SYMA Mobile",
+    "mcc": "208",
+    "mnc": "30",
+    "mccmnc": "20830"
   },
   {
-    "Country Code": "995",
-    "Country": "Georgia",
-    "Network": "GMobile",
-    "MCCMNC": "28209"
+    "Country Prefix": "421",
+    "Country Name": "Slovakia",
+    "Network Name": "Telefonica O2 Slovakia",
+    "mcc": "231",
+    "mnc": "06",
+    "mccmnc": "23106"
   },
   {
-    "Country Code": "49",
-    "Country": "Germany",
-    "Network": "Telefonica O2 Germany",
-    "MCCMNC": "26207"
+    "Country Prefix": "34",
+    "Country Name": "Spain",
+    "Network Name": "MNO - Yoigo (Xfera Moviles)",
+    "mcc": "214",
+    "mnc": "04",
+    "mccmnc": "21404"
   },
   {
-    "Country Code": "49",
-    "Country": "Germany",
-    "Network": "Vodafone Germany",
-    "MCCMNC": "26202"
+    "Country Prefix": "420",
+    "Country Name": "Czech Republic",
+    "Network Name": "T-Mobile CZ",
+    "mcc": "230",
+    "mnc": "01",
+    "mccmnc": "23001"
   },
   {
-    "Country Code": "49",
-    "Country": "Germany",
-    "Network": "T-Mobile (Deutsche Telekom)",
-    "MCCMNC": "26201"
+    "Country Prefix": "971",
+    "Country Name": "United Arab Emirates",
+    "Network Name": "du (EITC)",
+    "mcc": "424",
+    "mnc": "03",
+    "mccmnc": "42403"
   },
   {
-    "Country Code": "49",
-    "Country": "Germany",
-    "Network": "Germany Landline",
-    "MCCMNC": "262"
+    "Country Prefix": "55",
+    "Country Name": "Brazil",
+    "Network Name": "Brazil Landline // SP - Sao Paulo",
+    "mcc": "724",
+    "mnc": "",
+    "mccmnc": "724"
   },
   {
-    "Country Code": "49",
-    "Country": "Germany",
-    "Network": "Lebara (Telefonica MVNO)",
-    "MCCMNC": "26214"
+    "Country Prefix": "40",
+    "Country Name": "Romania",
+    "Network Name": "Vodafone Romania",
+    "mcc": "226",
+    "mnc": "01",
+    "mccmnc": "22601"
   },
   {
-    "Country Code": "49",
-    "Country": "Germany",
-    "Network": "Lycamobile (MVNO)",
-    "MCCMNC": "26243"
+    "Country Prefix": "216",
+    "Country Name": "Tunisia",
+    "Network Name": "Ooredoo (Tunisiana)",
+    "mcc": "605",
+    "mnc": "03",
+    "mccmnc": "60503"
   },
   {
-    "Country Code": "49",
-    "Country": "Germany",
-    "Network": "Truphone (Vodafone MVNO)",
-    "MCCMNC": "26242"
+    "Country Prefix": "355",
+    "Country Name": "Albania",
+    "Network Name": "Albania Landline",
+    "mcc": "276",
+    "mnc": "",
+    "mccmnc": "276"
   },
   {
-    "Country Code": "233",
-    "Country": "Ghana",
-    "Network": "MTN (Scancom Ghana Ltd)",
-    "MCCMNC": "62001"
+    "Country Prefix": "1",
+    "Country Name": "Canada",
+    "Network Name": "Telus Mobility",
+    "mcc": "302",
+    "mnc": "220",
+    "mccmnc": "302220"
   },
   {
-    "Country Code": "233",
-    "Country": "Ghana",
-    "Network": "AirtelTigo Ghana",
-    "MCCMNC": "62006"
+    "Country Prefix": "91",
+    "Country Name": "India",
+    "Network Name": "India Landline",
+    "mcc": "405",
+    "mnc": "",
+    "mccmnc": "405"
   },
   {
-    "Country Code": "233",
-    "Country": "Ghana",
-    "Network": "Vodafone Ghana",
-    "MCCMNC": "62002"
+    "Country Prefix": "1",
+    "Country Name": "Canada",
+    "Network Name": "Freedom Mobile",
+    "mcc": "302",
+    "mnc": "490",
+    "mccmnc": "302490"
   },
   {
-    "Country Code": "233",
-    "Country": "Ghana",
-    "Network": "Glo Mobile Ghana",
-    "MCCMNC": "62007"
+    "Country Prefix": "45",
+    "Country Name": "Denmark",
+    "Network Name": "MVNO - Companymobile A/S (TDC MVNO)",
+    "mcc": "238",
+    "mnc": "01",
+    "mccmnc": "23801"
   },
   {
-    "Country Code": "30",
-    "Country": "Greece",
-    "Network": "Wind Hellas",
-    "MCCMNC": "20210"
+    "Country Prefix": "33",
+    "Country Name": "France",
+    "Network Name": "MVNO - NRJ Mobile (Euro-Information telecom)",
+    "mcc": "208",
+    "mnc": "26",
+    "mccmnc": "20826"
   },
   {
-    "Country Code": "30",
-    "Country": "Greece",
-    "Network": "Vodafone Greece",
-    "MCCMNC": "20205"
+    "Country Prefix": "374",
+    "Country Name": "Armenia",
+    "Network Name": "Viva Armenia (K Telecom CJSC)",
+    "mcc": "283",
+    "mnc": "05",
+    "mccmnc": "28305"
   },
   {
-    "Country Code": "30",
-    "Country": "Greece",
-    "Network": "Cosmote (Mobile Telecommunications S.A.)",
-    "MCCMNC": "20201"
+    "Country Prefix": "1",
+    "Country Name": "Jamaica",
+    "Network Name": "Flow (Cable & Wireless (Jamaica) Ltd)",
+    "mcc": "338",
+    "mnc": "180",
+    "mccmnc": "338180"
   },
   {
-    "Country Code": "30",
-    "Country": "Greece",
-    "Network": "Greece Landline",
-    "MCCMNC": "202"
+    "Country Prefix": "375",
+    "Country Name": "Belarus",
+    "Network Name": "A1 (ex. velcom)",
+    "mcc": "257",
+    "mnc": "01",
+    "mccmnc": "25701"
   },
   {
-    "Country Code": "590",
-    "Country": "Guadeloupe",
-    "Network": "Digicel Guadeloupe",
-    "MCCMNC": "34020"
+    "Country Prefix": "98",
+    "Country Name": "Iran",
+    "Network Name": "Iran Landline",
+    "mcc": "432",
+    "mnc": "",
+    "mccmnc": "432"
   },
   {
-    "Country Code": "590",
-    "Country": "Guadeloupe",
-    "Network": "Orange Caraibe Mobiles",
-    "MCCMNC": "34001"
+    "Country Prefix": "880",
+    "Country Name": "Bangladesh",
+    "Network Name": "Grameenphone",
+    "mcc": "470",
+    "mnc": "01",
+    "mccmnc": "47001"
   },
   {
-    "Country Code": "590",
-    "Country": "Guadeloupe",
-    "Network": "Outremer Telecom",
-    "MCCMNC": "34002"
+    "Country Prefix": "34",
+    "Country Name": "Spain",
+    "Network Name": "MVNO - Mas Movil Telecom 3.0 (PEPEPHONE 3.0)",
+    "mcc": "214",
+    "mnc": "0354",
+    "mccmnc": "2140354"
   },
   {
-    "Country Code": "502",
-    "Country": "Guatemala",
-    "Network": "Tigo (Comcel Guatemala)",
-    "MCCMNC": "70402"
+    "Country Prefix": "380",
+    "Country Name": "Ukraine",
+    "Network Name": "3Mob (Ukrtelecom)",
+    "mcc": "255",
+    "mnc": "07",
+    "mccmnc": "25507"
   },
   {
-    "Country Code": "502",
-    "Country": "Guatemala",
-    "Network": "Claro (TELGUA)",
-    "MCCMNC": "70401"
+    "Country Prefix": "95",
+    "Country Name": "Myanmar",
+    "Network Name": "Mytel Myanmar",
+    "mcc": "414",
+    "mnc": "09",
+    "mccmnc": "41409"
   },
   {
-    "Country Code": "44",
-    "Country": "Guernsey",
-    "Network": "Sure Mobile (Cable & Wireless Guernsey Ltd)",
-    "MCCMNC": "23455"
+    "Country Prefix": "212",
+    "Country Name": "Morocco",
+    "Network Name": "Maroc Telecom (IAM)",
+    "mcc": "604",
+    "mnc": "01",
+    "mccmnc": "60401"
   },
   {
-    "Country Code": "224",
-    "Country": "Guinea",
-    "Network": "Orange Guinee",
-    "MCCMNC": "61101"
+    "Country Prefix": "93",
+    "Country Name": "Afghanistan",
+    "Network Name": "Etisalat Afghanistan",
+    "mcc": "412",
+    "mnc": "50",
+    "mccmnc": "41250"
   },
   {
-    "Country Code": "245",
-    "Country": "Guinea-Bissau",
-    "Network": "MTN (Spacetel Guinee-Bissau)",
-    "MCCMNC": "63202"
+    "Country Prefix": "216",
+    "Country Name": "Tunisia",
+    "Network Name": "TunTel (Tunisie Telecom)",
+    "mcc": "605",
+    "mnc": "02",
+    "mccmnc": "60502"
   },
   {
-    "Country Code": "245",
-    "Country": "Guinea-Bissau",
-    "Network": "Orange Bissau",
-    "MCCMNC": "63203"
+    "Country Prefix": "52",
+    "Country Name": "Mexico",
+    "Network Name": "Altan",
+    "mcc": "334",
+    "mnc": "140",
+    "mccmnc": "334140"
   },
   {
-    "Country Code": "509",
-    "Country": "Haiti",
-    "Network": "Digicel Haiti",
-    "MCCMNC": "37202"
+    "Country Prefix": "506",
+    "Country Name": "Costa Rica",
+    "Network Name": "Premium Costa Rica",
+    "mcc": "712",
+    "mnc": "",
+    "mccmnc": "712"
   },
   {
-    "Country Code": "509",
-    "Country": "Haiti",
-    "Network": "NATCOM (National Telecom S.A.)",
-    "MCCMNC": "37203"
+    "Country Prefix": "962",
+    "Country Name": "Jordan",
+    "Network Name": "Jordan Landline",
+    "mcc": "416",
+    "mnc": "",
+    "mccmnc": "416"
   },
   {
-    "Country Code": "852",
-    "Country": "Hong Kong",
-    "Network": "3 (Hutchison Telecom HK Ltd)",
-    "MCCMNC": "45403"
+    "Country Prefix": "234",
+    "Country Name": "Nigeria",
+    "Network Name": "Airtel Nigeria",
+    "mcc": "621",
+    "mnc": "20",
+    "mccmnc": "62120"
   },
   {
-    "Country Code": "852",
-    "Country": "Hong Kong",
-    "Network": "SmarTone HK",
-    "MCCMNC": "45406"
+    "Country Prefix": "421",
+    "Country Name": "Slovakia",
+    "Network Name": "T-Mobile SK (Slovak Telekom)",
+    "mcc": "231",
+    "mnc": "02",
+    "mccmnc": "23102"
   },
   {
-    "Country Code": "852",
-    "Country": "Hong Kong",
-    "Network": "Hong Kong Telecommunications (HKT/CSL)",
-    "MCCMNC": "45400"
+    "Country Prefix": "506",
+    "Country Name": "Costa Rica",
+    "Network Name": "Kolbi ICE (Instituto Costarricense de Electricidad)",
+    "mcc": "712",
+    "mnc": "01",
+    "mccmnc": "71201"
   },
   {
-    "Country Code": "852",
-    "Country": "Hong Kong",
-    "Network": "China Mobile HK",
-    "MCCMNC": "45412"
+    "Country Prefix": "31",
+    "Country Name": "Netherlands",
+    "Network Name": "TELE2 Nederland B.V. (T-Mobile MVNO)",
+    "mcc": "204",
+    "mnc": "02",
+    "mccmnc": "20402"
   },
   {
-    "Country Code": "852",
-    "Country": "Hong Kong",
-    "Network": "China Telecom Global Limited",
-    "MCCMNC": "45431"
+    "Country Prefix": "243",
+    "Country Name": "Congo (Democratic Republic)",
+    "Network Name": "Airtel D.R. of Congo",
+    "mcc": "630",
+    "mnc": "02",
+    "mccmnc": "63002"
   },
   {
-    "Country Code": "852",
-    "Country": "Hong Kong",
-    "Network": "China-HongKong Telecom (3 MVNO)",
-    "MCCMNC": "45411"
+    "Country Prefix": "7",
+    "Country Name": "Russian Federation",
+    "Network Name": "Yota (Scartel)",
+    "mcc": "250",
+    "mnc": "11",
+    "mccmnc": "25011"
   },
   {
-    "Country Code": "36",
-    "Country": "Hungary",
-    "Network": "T-Mobile Hungary (Magyar Telekom)",
-    "MCCMNC": "21630"
+    "Country Prefix": "261",
+    "Country Name": "Madagascar",
+    "Network Name": "Telma Mobile",
+    "mcc": "646",
+    "mnc": "04",
+    "mccmnc": "64604"
   },
   {
-    "Country Code": "36",
-    "Country": "Hungary",
-    "Network": "Hungary Landline",
-    "MCCMNC": "216"
+    "Country Prefix": "381",
+    "Country Name": "Serbia",
+    "Network Name": "Yettel Serbia (ex Telenor)",
+    "mcc": "220",
+    "mnc": "01",
+    "mccmnc": "22001"
   },
   {
-    "Country Code": "36",
-    "Country": "Hungary",
-    "Network": "Vodafone Hungary",
-    "MCCMNC": "21670"
+    "Country Prefix": "234",
+    "Country Name": "Nigeria",
+    "Network Name": "MTN Nigeria",
+    "mcc": "621",
+    "mnc": "30",
+    "mccmnc": "62130"
   },
   {
-    "Country Code": "36",
-    "Country": "Hungary",
-    "Network": "Yettel Hungary (ex Telenor)",
-    "MCCMNC": "21601"
+    "Country Prefix": "359",
+    "Country Name": "Bulgaria",
+    "Network Name": "Premium Bulgaria",
+    "mcc": "284",
+    "mnc": "",
+    "mccmnc": "284"
   },
   {
-    "Country Code": "36",
-    "Country": "Hungary",
-    "Network": "UPC Hungary Ltd. (MVNO)",
-    "MCCMNC": "21671"
+    "Country Prefix": "66",
+    "Country Name": "Thailand",
+    "Network Name": "DTAC (Total Access Communications Co.)",
+    "mcc": "520",
+    "mnc": "18",
+    "mccmnc": "52018"
   },
   {
-    "Country Code": "354",
-    "Country": "Iceland",
-    "Network": "NOVA",
-    "MCCMNC": "27411"
+    "Country Prefix": "34",
+    "Country Name": "Spain",
+    "Network Name": "MVNO - VODAFONE ENABLER ESPANA, S.L.",
+    "mcc": "214",
+    "mnc": "06",
+    "mccmnc": "21406"
   },
   {
-    "Country Code": "354",
-    "Country": "Iceland",
-    "Network": "Vodafone Iceland (Fjarskipti hf)",
-    "MCCMNC": "27402"
+    "Country Prefix": "962",
+    "Country Name": "Jordan",
+    "Network Name": "Premium Jordan",
+    "mcc": "416",
+    "mnc": "",
+    "mccmnc": "416"
   },
   {
-    "Country Code": "354",
-    "Country": "Iceland",
-    "Network": "Siminn",
-    "MCCMNC": "27401"
+    "Country Prefix": "46",
+    "Country Name": "Sweden",
+    "Network Name": "MNO - TeliaSonera Sverige AB",
+    "mcc": "240",
+    "mnc": "01",
+    "mccmnc": "24001"
   },
   {
-    "Country Code": "91",
-    "Country": "India",
-    "Network": "Reliance Jio // Mumbai",
-    "MCCMNC": "405874"
+    "Country Prefix": "40",
+    "Country Name": "Romania",
+    "Network Name": "Orange Romania",
+    "mcc": "226",
+    "mnc": "10",
+    "mccmnc": "22610"
   },
   {
-    "Country Code": "91",
-    "Country": "India",
-    "Network": "Vodafone // Mumbai",
-    "MCCMNC": "40420"
+    "Country Prefix": "598",
+    "Country Name": "Uruguay",
+    "Network Name": "Antel",
+    "mcc": "748",
+    "mnc": "01",
+    "mccmnc": "74801"
   },
   {
-    "Country Code": "91",
-    "Country": "India",
-    "Network": "India // unknown network",
-    "MCCMNC": "404"
+    "Country Prefix": "1242",
+    "Country Name": "Bahamas",
+    "Network Name": "Bahamas Landline",
+    "mcc": "364",
+    "mnc": "",
+    "mccmnc": "364"
   },
   {
-    "Country Code": "91",
-    "Country": "India",
-    "Network": "Airtel // North East",
-    "MCCMNC": "40416"
-  },
-  {
-    "Country Code": "91",
-    "Country": "India",
-    "Network": "Airtel // Delhi",
-    "MCCMNC": "40410"
-  },
-  {
-    "Country Code": "91",
-    "Country": "India",
-    "Network": "Airtel // Rajasthan",
-    "MCCMNC": "40470"
-  },
-  {
-    "Country Code": "91",
-    "Country": "India",
-    "Network": "Airtel // Andhra Pradesh",
-    "MCCMNC": "40449"
-  },
-  {
-    "Country Code": "91",
-    "Country": "India",
-    "Network": "Airtel // Karnataka",
-    "MCCMNC": "40406"
-  },
-  {
-    "Country Code": "91",
-    "Country": "India",
-    "Network": "Reliance Jio // Kerala",
-    "MCCMNC": "405862"
-  },
-  {
-    "Country Code": "91",
-    "Country": "India",
-    "Network": "Airtel // Chennai",
-    "MCCMNC": "40440"
-  },
-  {
-    "Country Code": "91",
-    "Country": "India",
-    "Network": "Airtel // West Bengal",
-    "MCCMNC": "40551"
-  },
-  {
-    "Country Code": "91",
-    "Country": "India",
-    "Network": "Airtel // Mumbai",
-    "MCCMNC": "40492"
-  },
-  {
-    "Country Code": "91",
-    "Country": "India",
-    "Network": "Airtel // Punjab",
-    "MCCMNC": "40402"
-  },
-  {
-    "Country Code": "91",
-    "Country": "India",
-    "Network": "Airtel // UP-West",
-    "MCCMNC": "40497"
-  },
-  {
-    "Country Code": "91",
-    "Country": "India",
-    "Network": "Airtel // Gujarat",
-    "MCCMNC": "40498"
-  },
-  {
-    "Country Code": "91",
-    "Country": "India",
-    "Network": "Reliance Jio // Tamil Nadu",
-    "MCCMNC": "405869"
-  },
-  {
-    "Country Code": "91",
-    "Country": "India",
-    "Network": "India Landline",
-    "MCCMNC": "405"
-  },
-  {
-    "Country Code": "91",
-    "Country": "India",
-    "Network": "IDEA // Kerala",
-    "MCCMNC": "40419"
-  },
-  {
-    "Country Code": "91",
-    "Country": "India",
-    "Network": "Vodafone // Kerala",
-    "MCCMNC": "40446"
-  },
-  {
-    "Country Code": "62",
-    "Country": "Indonesia",
-    "Network": "XL (PT XL Axiata Tbk)",
-    "MCCMNC": "51011"
-  },
-  {
-    "Country Code": "62",
-    "Country": "Indonesia",
-    "Network": "Smartfren (PT Smartfren Telecom)",
-    "MCCMNC": "51028"
-  },
-  {
-    "Country Code": "62",
-    "Country": "Indonesia",
-    "Network": "Indosat Ooredoo (PT Indosat Tbk)",
-    "MCCMNC": "51001"
-  },
-  {
-    "Country Code": "62",
-    "Country": "Indonesia",
-    "Network": "Telkomsel (PT Telekomunikasi Selular)",
-    "MCCMNC": "51010"
-  },
-  {
-    "Country Code": "62",
-    "Country": "Indonesia",
-    "Network": "Indonesia Landline",
-    "MCCMNC": "510"
-  },
-  {
-    "Country Code": "62",
-    "Country": "Indonesia",
-    "Network": "3 (PT Hutchison CP Telecommunications)",
-    "MCCMNC": "51089"
-  },
-  {
-    "Country Code": "98",
-    "Country": "Iran",
-    "Network": "MCI (Mobile Communications Company of Iran)",
-    "MCCMNC": "43211"
-  },
-  {
-    "Country Code": "98",
-    "Country": "Iran",
-    "Network": "MTN Irancell",
-    "MCCMNC": "43235"
-  },
-  {
-    "Country Code": "98",
-    "Country": "Iran",
-    "Network": "Rightel",
-    "MCCMNC": "43220"
-  },
-  {
-    "Country Code": "98",
-    "Country": "Iran",
-    "Network": "SamanTel (RighTel MVNO)",
-    "MCCMNC": "43201"
-  },
-  {
-    "Country Code": "98",
-    "Country": "Iran",
-    "Network": "NeginTel (ApTel) (MTN MVNO)",
-    "MCCMNC": "43202"
-  },
-  {
-    "Country Code": "98",
-    "Country": "Iran",
-    "Network": "Iran Landline",
-    "MCCMNC": "432"
-  },
-  {
-    "Country Code": "964",
-    "Country": "Iraq",
-    "Network": "zain IQ (Atheer Telecom Iraq)",
-    "MCCMNC": "41820"
-  },
-  {
-    "Country Code": "964",
-    "Country": "Iraq",
-    "Network": "Asiacell (Ooredoo group)",
-    "MCCMNC": "41805"
-  },
-  {
-    "Country Code": "964",
-    "Country": "Iraq",
-    "Network": "Korek Telecom",
-    "MCCMNC": "41840"
-  },
-  {
-    "Country Code": "964",
-    "Country": "Iraq",
-    "Network": "Iraq Landline",
-    "MCCMNC": "418"
-  },
-  {
-    "Country Code": "353",
-    "Country": "Ireland",
-    "Network": "Three Ireland",
-    "MCCMNC": "27205"
-  },
-  {
-    "Country Code": "353",
-    "Country": "Ireland",
-    "Network": "Vodafone Ireland",
-    "MCCMNC": "27201"
-  },
-  {
-    "Country Code": "353",
-    "Country": "Ireland",
-    "Network": "EIR (Ex. Meteor Mobile Telecommunications)",
-    "MCCMNC": "27203"
-  },
-  {
-    "Country Code": "353",
-    "Country": "Ireland",
-    "Network": "Virgin Mobile IE (Three MVNO)",
-    "MCCMNC": "27215"
-  },
-  {
-    "Country Code": "353",
-    "Country": "Ireland",
-    "Network": "Tesco mobile (Liffey Telecom) (Three MVNO)",
-    "MCCMNC": "27211"
-  },
-  {
-    "Country Code": "353",
-    "Country": "Ireland",
-    "Network": "Ireland Landline",
-    "MCCMNC": "272"
-  },
-  {
-    "Country Code": "353",
-    "Country": "Ireland",
-    "Network": "Lycamobile (Three MVNO)",
-    "MCCMNC": "27213"
-  },
-  {
-    "Country Code": "44",
-    "Country": "Isle of Man",
-    "Network": "Manx Telecom",
-    "MCCMNC": "23458"
-  },
-  {
-    "Country Code": "972",
-    "Country": "Israel",
-    "Network": "Azi Communications (Telzar) (MVNO)",
-    "MCCMNC": "42519"
-  },
-  {
-    "Country Code": "972",
-    "Country": "Israel",
-    "Network": "Hot Mobile",
-    "MCCMNC": "42507"
-  },
-  {
-    "Country Code": "972",
-    "Country": "Israel",
-    "Network": "Pelephone",
-    "MCCMNC": "42503"
-  },
-  {
-    "Country Code": "972",
-    "Country": "Israel",
-    "Network": "Orange (Partner Communications Company)",
-    "MCCMNC": "42501"
-  },
-  {
-    "Country Code": "972",
-    "Country": "Israel",
-    "Network": "Cellcom Israel",
-    "MCCMNC": "42502"
-  },
-  {
-    "Country Code": "972",
-    "Country": "Israel",
-    "Network": "Golan Telecom",
-    "MCCMNC": "42508"
-  },
-  {
-    "Country Code": "972",
-    "Country": "Israel",
-    "Network": "Israel Landline",
-    "MCCMNC": "425"
-  },
-  {
-    "Country Code": "972",
-    "Country": "Israel",
-    "Network": "WECOM MOBILE (Xfone/We4G)",
-    "MCCMNC": "42509"
-  },
-  {
-    "Country Code": "39",
-    "Country": "Italy",
-    "Network": "MVNO - Fastweb (H3G MVNO)",
-    "MCCMNC": "22208"
-  },
-  {
-    "Country Code": "39",
-    "Country": "Italy",
-    "Network": "MNO - Vodafone Italy",
-    "MCCMNC": "22210"
-  },
-  {
-    "Country Code": "39",
-    "Country": "Italy",
-    "Network": "MNO - Wind Telecomunicazioni SpA",
-    "MCCMNC": "22288"
-  },
-  {
-    "Country Code": "39",
-    "Country": "Italy",
-    "Network": "MNO - TIM (Telecom Italia SpA)",
-    "MCCMNC": "22201"
-  },
-  {
-    "Country Code": "39",
-    "Country": "Italy",
-    "Network": "MNO - ILIAD Italia S.p.A.",
-    "MCCMNC": "22250"
-  },
-  {
-    "Country Code": "39",
-    "Country": "Italy",
-    "Network": "Italy Landline",
-    "MCCMNC": "222"
-  },
-  {
-    "Country Code": "39",
-    "Country": "Italy",
-    "Network": "MVNO - Lycamobile (Vodafone MVNO)",
-    "MCCMNC": "22235"
-  },
-  {
-    "Country Code": "39",
-    "Country": "Italy",
-    "Network": "MVNO - Kena (Ex. Noverca) (TIM MVNO)",
-    "MCCMNC": "22207"
-  },
-  {
-    "Country Code": "39",
-    "Country": "Italy",
-    "Network": "MNO - H3G Italia (Wind-Tre)",
-    "MCCMNC": "22299"
-  },
-  {
-    "Country Code": "39",
-    "Country": "Italy",
-    "Network": "MVNO - Poste Mobile(Wind MVNO)",
-    "MCCMNC": "22233"
-  },
-  {
-    "Country Code": "1",
-    "Country": "Jamaica",
-    "Network": "Jamaica Landline",
-    "MCCMNC": "338"
-  },
-  {
-    "Country Code": "1",
-    "Country": "Jamaica",
-    "Network": "Digicel Jamaica",
-    "MCCMNC": "338050"
-  },
-  {
-    "Country Code": "1",
-    "Country": "Jamaica",
-    "Network": "Flow (Cable & Wireless (Jamaica) Ltd)",
-    "MCCMNC": "338180"
-  },
-  {
-    "Country Code": "81",
-    "Country": "Japan",
-    "Network": "NTT DOCOMO",
-    "MCCMNC": "44010"
-  },
-  {
-    "Country Code": "81",
-    "Country": "Japan",
-    "Network": "au (KDDI)",
-    "MCCMNC": "44054"
-  },
-  {
-    "Country Code": "81",
-    "Country": "Japan",
-    "Network": "Rakuten Mobile",
-    "MCCMNC": "44011"
-  },
-  {
-    "Country Code": "81",
-    "Country": "Japan",
-    "Network": "SoftBank",
-    "MCCMNC": "44020"
-  },
-  {
-    "Country Code": "44",
-    "Country": "Jersey",
-    "Network": "Core Telecom Limited",
-    "MCCMNC": "234997"
-  },
-  {
-    "Country Code": "44",
-    "Country": "Jersey",
-    "Network": "Marathon Telecom Ltd",
-    "MCCMNC": "23428"
-  },
-  {
-    "Country Code": "44",
-    "Country": "Jersey",
-    "Network": "Sure Mobile (Cable & Wireless Jersey Ltd)",
-    "MCCMNC": "23455"
-  },
-  {
-    "Country Code": "44",
-    "Country": "Jersey",
-    "Network": "Airtel Jersey",
-    "MCCMNC": "23403"
-  },
-  {
-    "Country Code": "962",
-    "Country": "Jordan",
-    "Network": "Umniah",
-    "MCCMNC": "41603"
-  },
-  {
-    "Country Code": "962",
-    "Country": "Jordan",
-    "Network": "Orange (Jordan Telecom Group)",
-    "MCCMNC": "41677"
-  },
-  {
-    "Country Code": "962",
-    "Country": "Jordan",
-    "Network": "zain JO (JMTS)",
-    "MCCMNC": "41601"
-  },
-  {
-    "Country Code": "962",
-    "Country": "Jordan",
-    "Network": "Jordan Landline",
-    "MCCMNC": "416"
-  },
-  {
-    "Country Code": "962",
-    "Country": "Jordan",
-    "Network": "Premium Jordan",
-    "MCCMNC": "416"
-  },
-  {
-    "Country Code": "7",
-    "Country": "Kazakhstan",
-    "Network": "Beeline (KaR-Tel LLP)",
-    "MCCMNC": "40101"
-  },
-  {
-    "Country Code": "7",
-    "Country": "Kazakhstan",
-    "Network": "Tele2",
-    "MCCMNC": "40177"
-  },
-  {
-    "Country Code": "7",
-    "Country": "Kazakhstan",
-    "Network": "K-Cell (GSM Kazakhstan Ltd)",
-    "MCCMNC": "40102"
-  },
-  {
-    "Country Code": "7",
-    "Country": "Kazakhstan",
-    "Network": "Altel JSC",
-    "MCCMNC": "40107"
-  },
-  {
-    "Country Code": "7",
-    "Country": "Kazakhstan",
-    "Network": "Kazakhstan Landline",
-    "MCCMNC": "401"
-  },
-  {
-    "Country Code": "254",
-    "Country": "Kenya",
-    "Network": "Safaricom",
-    "MCCMNC": "63902"
-  },
-  {
-    "Country Code": "254",
-    "Country": "Kenya",
-    "Network": "Telkom Kenya Ltd (Orange)",
-    "MCCMNC": "63907"
-  },
-  {
-    "Country Code": "254",
-    "Country": "Kenya",
-    "Network": "Kenya Landline",
-    "MCCMNC": "639"
-  },
-  {
-    "Country Code": "254",
-    "Country": "Kenya",
-    "Network": "Airtel Kenya",
-    "MCCMNC": "63903"
-  },
-  {
-    "Country Code": "82",
-    "Country": "Korea, the Republic of",
-    "Network": "SK Telecom",
-    "MCCMNC": "45005"
-  },
-  {
-    "Country Code": "82",
-    "Country": "Korea, the Republic of",
-    "Network": "LG U+",
-    "MCCMNC": "45006"
-  },
-  {
-    "Country Code": "82",
-    "Country": "Korea, the Republic of",
-    "Network": "KT Freetel",
-    "MCCMNC": "45008"
-  },
-  {
-    "Country Code": "383",
-    "Country": "Kosovo",
-    "Network": "IPKO",
-    "MCCMNC": "22102"
-  },
-  {
-    "Country Code": "383",
-    "Country": "Kosovo",
-    "Network": "Z-Mobile (Dardafon.Net) (VALA MVNO)",
-    "MCCMNC": "22106"
-  },
-  {
-    "Country Code": "383",
-    "Country": "Kosovo",
-    "Network": "Vala (Telekomi i Kosovës sh.a.)",
-    "MCCMNC": "22101"
-  },
-  {
-    "Country Code": "965",
-    "Country": "Kuwait",
-    "Network": "STC Kuwait (ex VIVA)",
-    "MCCMNC": "41904"
-  },
-  {
-    "Country Code": "965",
-    "Country": "Kuwait",
-    "Network": "Ooredoo Kuwait",
-    "MCCMNC": "41903"
-  },
-  {
-    "Country Code": "965",
-    "Country": "Kuwait",
-    "Network": "zain KW (Mobile Telecommunications Co.)",
-    "MCCMNC": "41902"
-  },
-  {
-    "Country Code": "996",
-    "Country": "Kyrgyzstan",
-    "Network": "O! (NurTelecom LLC)",
-    "MCCMNC": "43709"
-  },
-  {
-    "Country Code": "996",
-    "Country": "Kyrgyzstan",
-    "Network": "MEGACOM (Alfa Telecom Joint Stock Company)",
-    "MCCMNC": "43705"
-  },
-  {
-    "Country Code": "996",
-    "Country": "Kyrgyzstan",
-    "Network": "Beeline KG (Sky Mobile LLC)",
-    "MCCMNC": "43701"
-  },
-  {
-    "Country Code": "856",
-    "Country": "Lao People's Democratic Republic",
-    "Network": "ETL MOBILE",
-    "MCCMNC": "45702"
-  },
-  {
-    "Country Code": "371",
-    "Country": "Latvia",
-    "Network": "Bite Latvija",
-    "MCCMNC": "24705"
-  },
-  {
-    "Country Code": "371",
-    "Country": "Latvia",
-    "Network": "LMT GSM (Latvijas Mobilais Telefons)",
-    "MCCMNC": "24701"
-  },
-  {
-    "Country Code": "371",
-    "Country": "Latvia",
-    "Network": "TELE2",
-    "MCCMNC": "24702"
-  },
-  {
-    "Country Code": "961",
-    "Country": "Lebanon",
-    "Network": "Alfa (MIC 1)",
-    "MCCMNC": "41501"
-  },
-  {
-    "Country Code": "961",
-    "Country": "Lebanon",
-    "Network": "Lebanon Landline",
-    "MCCMNC": "415"
-  },
-  {
-    "Country Code": "961",
-    "Country": "Lebanon",
-    "Network": "MTC-Touch (MIC 2)",
-    "MCCMNC": "41503"
-  },
-  {
-    "Country Code": "266",
-    "Country": "Lesotho",
-    "Network": "Econet Telecom Lesotho",
-    "MCCMNC": "65102"
-  },
-  {
-    "Country Code": "266",
-    "Country": "Lesotho",
-    "Network": "Vodacom Lesotho",
-    "MCCMNC": "65101"
-  },
-  {
-    "Country Code": "231",
-    "Country": "Liberia",
-    "Network": "Orange Liberia (ex. Cellcom)",
-    "MCCMNC": "61807"
-  },
-  {
-    "Country Code": "231",
-    "Country": "Liberia",
-    "Network": "Lonestar Cell MTN",
-    "MCCMNC": "61801"
-  },
-  {
-    "Country Code": "218",
-    "Country": "Libya",
-    "Network": "Al Madar Al Jadid",
-    "MCCMNC": "60601"
-  },
-  {
-    "Country Code": "218",
-    "Country": "Libya",
-    "Network": "Libyana Mobile Phone",
-    "MCCMNC": "60600"
-  },
-  {
-    "Country Code": "218",
-    "Country": "Libya",
-    "Network": "Libya Landline",
-    "MCCMNC": "606"
-  },
-  {
-    "Country Code": "423",
-    "Country": "Liechtenstein",
-    "Network": "Orange FL",
-    "MCCMNC": "29502"
-  },
-  {
-    "Country Code": "423",
-    "Country": "Liechtenstein",
-    "Network": "FL1 (Mobilkom Liechtenstein AG)",
-    "MCCMNC": "29505"
-  },
-  {
-    "Country Code": "370",
-    "Country": "Lithuania",
-    "Network": "Telia Lietuva (Omnitel)",
-    "MCCMNC": "24601"
-  },
-  {
-    "Country Code": "370",
-    "Country": "Lithuania",
-    "Network": "BITE GSM",
-    "MCCMNC": "24602"
-  },
-  {
-    "Country Code": "370",
-    "Country": "Lithuania",
-    "Network": "TELE2",
-    "MCCMNC": "24603"
-  },
-  {
-    "Country Code": "370",
-    "Country": "Lithuania",
-    "Network": "Travel Communication SIA",
-    "MCCMNC": "24613"
-  },
-  {
-    "Country Code": "352",
-    "Country": "Luxembourg",
-    "Network": "Tango",
-    "MCCMNC": "27077"
-  },
-  {
-    "Country Code": "352",
-    "Country": "Luxembourg",
-    "Network": "e-Lux Mobile (MVNO)",
-    "MCCMNC": "27081"
-  },
-  {
-    "Country Code": "352",
-    "Country": "Luxembourg",
-    "Network": "LuxGSM (P&T Luxembourg)",
-    "MCCMNC": "27001"
-  },
-  {
-    "Country Code": "352",
-    "Country": "Luxembourg",
-    "Network": "Orange",
-    "MCCMNC": "27099"
-  },
-  {
-    "Country Code": "261",
-    "Country": "Madagascar",
-    "Network": "Orange Madagascar",
-    "MCCMNC": "64602"
-  },
-  {
-    "Country Code": "261",
-    "Country": "Madagascar",
-    "Network": "Airtel Madagascar",
-    "MCCMNC": "64601"
-  },
-  {
-    "Country Code": "261",
-    "Country": "Madagascar",
-    "Network": "Telma Mobile",
-    "MCCMNC": "64604"
-  },
-  {
-    "Country Code": "265",
-    "Country": "Malawi",
-    "Network": "Airtel Malawi",
-    "MCCMNC": "65010"
-  },
-  {
-    "Country Code": "265",
-    "Country": "Malawi",
-    "Network": "TNM (Telekom Networks Malawi)",
-    "MCCMNC": "65001"
-  },
-  {
-    "Country Code": "60",
-    "Country": "Malaysia",
-    "Network": "DiGi Telecommunications",
-    "MCCMNC": "50216"
-  },
-  {
-    "Country Code": "60",
-    "Country": "Malaysia",
-    "Network": "Maxis Bhd",
-    "MCCMNC": "50212"
-  },
-  {
-    "Country Code": "60",
-    "Country": "Malaysia",
-    "Network": "Malaysia Landline",
-    "MCCMNC": "502"
-  },
-  {
-    "Country Code": "60",
-    "Country": "Malaysia",
-    "Network": "U Mobile Sdn Bhd",
-    "MCCMNC": "50218"
-  },
-  {
-    "Country Code": "60",
-    "Country": "Malaysia",
-    "Network": "Celcom Axiata Bhd",
-    "MCCMNC": "50219"
-  },
-  {
-    "Country Code": "60",
-    "Country": "Malaysia",
-    "Network": "Webe (Packet One)",
-    "MCCMNC": "502153"
-  },
-  {
-    "Country Code": "960",
-    "Country": "Maldives",
-    "Network": "Dhiraagu (Dhivehi Raajjeyge Gulhun)",
-    "MCCMNC": "47201"
-  },
-  {
-    "Country Code": "223",
-    "Country": "Mali",
-    "Network": "Orange MALI",
-    "MCCMNC": "61002"
-  },
-  {
-    "Country Code": "223",
-    "Country": "Mali",
-    "Network": "Telcell",
-    "MCCMNC": "61003"
-  },
-  {
-    "Country Code": "223",
-    "Country": "Mali",
-    "Network": "Malitel",
-    "MCCMNC": "61001"
-  },
-  {
-    "Country Code": "356",
-    "Country": "Malta",
-    "Network": "GO Mobile (Mobisle Communications Ltd)",
-    "MCCMNC": "27821"
-  },
-  {
-    "Country Code": "356",
-    "Country": "Malta",
-    "Network": "Epic Communications Limited (ex. VF Malta)",
-    "MCCMNC": "27801"
-  },
-  {
-    "Country Code": "596",
-    "Country": "Martinique",
-    "Network": "Outremer Telecom",
-    "MCCMNC": "34002"
-  },
-  {
-    "Country Code": "596",
-    "Country": "Martinique",
-    "Network": "Free Caraibe Martinique",
-    "MCCMNC": "34004"
-  },
-  {
-    "Country Code": "596",
-    "Country": "Martinique",
-    "Network": "Digicel Martinique",
-    "MCCMNC": "34020"
-  },
-  {
-    "Country Code": "596",
-    "Country": "Martinique",
-    "Network": "Orange Caraibe Mobiles",
-    "MCCMNC": "34001"
-  },
-  {
-    "Country Code": "222",
-    "Country": "Mauritania",
-    "Network": "Mattel",
-    "MCCMNC": "60901"
-  },
-  {
-    "Country Code": "222",
-    "Country": "Mauritania",
-    "Network": "Mauritel Mobiles",
-    "MCCMNC": "60910"
-  },
-  {
-    "Country Code": "222",
-    "Country": "Mauritania",
-    "Network": "Chinguitel",
-    "MCCMNC": "60902"
-  },
-  {
-    "Country Code": "230",
-    "Country": "Mauritius",
-    "Network": "Emtel",
-    "MCCMNC": "61710"
-  },
-  {
-    "Country Code": "230",
-    "Country": "Mauritius",
-    "Network": "my.t (Mauritius Telecom)",
-    "MCCMNC": "61701"
-  },
-  {
-    "Country Code": "52",
-    "Country": "Mexico",
-    "Network": "Altan",
-    "MCCMNC": "334140"
-  },
-  {
-    "Country Code": "52",
-    "Country": "Mexico",
-    "Network": "Telcel (Radiomovil Dipsa S.A.)",
-    "MCCMNC": "33402"
-  },
-  {
-    "Country Code": "52",
-    "Country": "Mexico",
-    "Network": "Movistar (Pegaso PCS)",
-    "MCCMNC": "33403"
-  },
-  {
-    "Country Code": "52",
-    "Country": "Mexico",
-    "Network": "AT&T Mexico (Nextel & Iusacell)",
-    "MCCMNC": "33405"
-  },
-  {
-    "Country Code": "52",
-    "Country": "Mexico",
-    "Network": "Mexico Landline",
-    "MCCMNC": "334"
-  },
-  {
-    "Country Code": "373",
-    "Country": "Moldova",
-    "Network": "MoldCell",
-    "MCCMNC": "25902"
-  },
-  {
-    "Country Code": "373",
-    "Country": "Moldova",
-    "Network": "Orange Moldova",
-    "MCCMNC": "25901"
-  },
-  {
-    "Country Code": "373",
-    "Country": "Moldova",
-    "Network": "Moldova Landline",
-    "MCCMNC": "259"
-  },
-  {
-    "Country Code": "373",
-    "Country": "Moldova",
-    "Network": "Unite (MoldTelecom)",
-    "MCCMNC": "25905"
-  },
-  {
-    "Country Code": "373",
-    "Country": "Moldova",
-    "Network": "Premium Moldova",
-    "MCCMNC": "259"
-  },
-  {
-    "Country Code": "373",
-    "Country": "Moldova",
-    "Network": "IDC (Interdnestrcom) (CDMA)",
-    "MCCMNC": "25903"
-  },
-  {
-    "Country Code": "377",
-    "Country": "Monaco",
-    "Network": "VALA - P&T Kosovo (Monaco Telecom)",
-    "MCCMNC": "21201"
-  },
-  {
-    "Country Code": "976",
-    "Country": "Mongolia",
-    "Network": "G-Mobile (CDMA)",
-    "MCCMNC": "42898"
-  },
-  {
-    "Country Code": "976",
-    "Country": "Mongolia",
-    "Network": "MobiCom",
-    "MCCMNC": "42899"
-  },
-  {
-    "Country Code": "976",
-    "Country": "Mongolia",
-    "Network": "Unitel",
-    "MCCMNC": "42888"
-  },
-  {
-    "Country Code": "976",
-    "Country": "Mongolia",
-    "Network": "SkyTel (CDMA)",
-    "MCCMNC": "42891"
-  },
-  {
-    "Country Code": "382",
-    "Country": "Montenegro",
-    "Network": "m:tel CG",
-    "MCCMNC": "29703"
-  },
-  {
-    "Country Code": "382",
-    "Country": "Montenegro",
-    "Network": "One Crna Gora (ex. Telenor)",
-    "MCCMNC": "29701"
-  },
-  {
-    "Country Code": "212",
-    "Country": "Morocco",
-    "Network": "Maroc Telecom (IAM)",
-    "MCCMNC": "60401"
-  },
-  {
-    "Country Code": "212",
-    "Country": "Morocco",
-    "Network": "Orange (ex Meditel)",
-    "MCCMNC": "60400"
-  },
-  {
-    "Country Code": "212",
-    "Country": "Morocco",
-    "Network": "INWI (WANA - Groupe ONA)",
-    "MCCMNC": "60402"
-  },
-  {
-    "Country Code": "212",
-    "Country": "Morocco",
-    "Network": "Morocco Landline",
-    "MCCMNC": "604"
-  },
-  {
-    "Country Code": "258",
-    "Country": "Mozambique",
-    "Network": "Vodacom Mozambique",
-    "MCCMNC": "64304"
-  },
-  {
-    "Country Code": "258",
-    "Country": "Mozambique",
-    "Network": "Movitel",
-    "MCCMNC": "64303"
-  },
-  {
-    "Country Code": "258",
-    "Country": "Mozambique",
-    "Network": "mcel (Mocambique Celular S.A.R.L.)",
-    "MCCMNC": "64301"
-  },
-  {
-    "Country Code": "95",
-    "Country": "Myanmar",
-    "Network": "Mytel Myanmar",
-    "MCCMNC": "41409"
-  },
-  {
-    "Country Code": "95",
-    "Country": "Myanmar",
-    "Network": "ATOM",
-    "MCCMNC": "41406"
-  },
-  {
-    "Country Code": "95",
-    "Country": "Myanmar",
-    "Network": "MPT (Myanmar Posts and Telecommunications)",
-    "MCCMNC": "41401"
-  },
-  {
-    "Country Code": "95",
-    "Country": "Myanmar",
-    "Network": "Ooredoo Myanmar",
-    "MCCMNC": "41405"
-  },
-  {
-    "Country Code": "95",
-    "Country": "Myanmar",
-    "Network": "Myanmar Economic Corporation (MEC)",
-    "MCCMNC": "41403"
-  },
-  {
-    "Country Code": "977",
-    "Country": "Nepal",
-    "Network": "Ncell (Spice Nepal Private Ltd)",
-    "MCCMNC": "42902"
-  },
-  {
-    "Country Code": "977",
-    "Country": "Nepal",
-    "Network": "Nepal Doorsanchar Company Ltd (Nepal Telecom)",
-    "MCCMNC": "42901"
-  },
-  {
-    "Country Code": "977",
-    "Country": "Nepal",
-    "Network": "Smart Telecom",
-    "MCCMNC": "42904"
-  },
-  {
-    "Country Code": "31",
-    "Country": "Netherlands",
-    "Network": "T-Mobile NL",
-    "MCCMNC": "20416"
-  },
-  {
-    "Country Code": "31",
-    "Country": "Netherlands",
-    "Network": "VodafoneZiggo Netherlands",
-    "MCCMNC": "20404"
-  },
-  {
-    "Country Code": "31",
-    "Country": "Netherlands",
-    "Network": "KPN B.V.",
-    "MCCMNC": "20408"
-  },
-  {
-    "Country Code": "31",
-    "Country": "Netherlands",
-    "Network": "Lycamobile (KPN MVNO)",
-    "MCCMNC": "20409"
-  },
-  {
-    "Country Code": "31",
-    "Country": "Netherlands",
-    "Network": "Netherland Landline",
-    "MCCMNC": "204"
-  },
-  {
-    "Country Code": "31",
-    "Country": "Netherlands",
-    "Network": "KPN B.V. (Telfort B.V.)",
-    "MCCMNC": "20412"
-  },
-  {
-    "Country Code": "31",
-    "Country": "Netherlands",
-    "Network": "Tismi BV (MVNO)",
-    "MCCMNC": "20429"
-  },
-  {
-    "Country Code": "31",
-    "Country": "Netherlands",
-    "Network": "Barablu Mobile (Vodafone MVNO)",
-    "MCCMNC": "20406"
-  },
-  {
-    "Country Code": "31",
-    "Country": "Netherlands",
-    "Network": "TELE2 Nederland B.V. (T-Mobile MVNO)",
-    "MCCMNC": "20402"
-  },
-  {
-    "Country Code": "31",
-    "Country": "Netherlands",
-    "Network": "Tata Communications MOVE B.V. (exTeleena)",
-    "MCCMNC": "20407"
-  },
-  {
-    "Country Code": "31",
-    "Country": "Netherlands",
-    "Network": "Lancelot B.V.",
-    "MCCMNC": "20428"
-  },
-  {
-    "Country Code": "31",
-    "Country": "Netherlands",
-    "Network": "Voiceworks",
-    "MCCMNC": "20403"
-  },
-  {
-    "Country Code": "687",
-    "Country": "New Caledonia",
-    "Network": "Mobilis (OPT New Caledonia)",
-    "MCCMNC": "54601"
-  },
-  {
-    "Country Code": "64",
-    "Country": "New Zealand",
-    "Network": "2degrees",
-    "MCCMNC": "53024"
-  },
-  {
-    "Country Code": "64",
-    "Country": "New Zealand",
-    "Network": "Vodafone New Zealand",
-    "MCCMNC": "53001"
-  },
-  {
-    "Country Code": "64",
-    "Country": "New Zealand",
-    "Network": "Spark New Zealand (ex. Telecom NZ)",
-    "MCCMNC": "53005"
-  },
-  {
-    "Country Code": "505",
-    "Country": "Nicaragua",
-    "Network": "Claro (ENITEL)",
-    "MCCMNC": "71021"
-  },
-  {
-    "Country Code": "505",
-    "Country": "Nicaragua",
-    "Network": "movistarNI (Telefonia Celular de Nicaragua S.A.)",
-    "MCCMNC": "71030"
-  },
-  {
-    "Country Code": "505",
-    "Country": "Nicaragua",
-    "Network": "CooTel",
-    "MCCMNC": "71068"
-  },
-  {
-    "Country Code": "227",
-    "Country": "Niger",
-    "Network": "Zamani Telecom (ex. Orange)",
-    "MCCMNC": "61404"
-  },
-  {
-    "Country Code": "227",
-    "Country": "Niger",
-    "Network": "Airtel Niger",
-    "MCCMNC": "61402"
-  },
-  {
-    "Country Code": "234",
-    "Country": "Nigeria",
-    "Network": "9mobile (ex. Etisalat)",
-    "MCCMNC": "62160"
-  },
-  {
-    "Country Code": "234",
-    "Country": "Nigeria",
-    "Network": "MTN Nigeria",
-    "MCCMNC": "62130"
-  },
-  {
-    "Country Code": "234",
-    "Country": "Nigeria",
-    "Network": "Airtel Nigeria",
-    "MCCMNC": "62120"
-  },
-  {
-    "Country Code": "234",
-    "Country": "Nigeria",
-    "Network": "Glo Mobile (Globacom Ltd)",
-    "MCCMNC": "62150"
-  },
-  {
-    "Country Code": "234",
-    "Country": "Nigeria",
-    "Network": "Nigeria Landline",
-    "MCCMNC": "621"
-  },
-  {
-    "Country Code": "683",
-    "Country": "Niue",
-    "Network": "Telecom Niue",
-    "MCCMNC": "55501"
-  },
-  {
-    "Country Code": "389",
-    "Country": "North Macedonia",
-    "Network": "Vip MK (one.Vip DOO Skopje (MKDNO))",
-    "MCCMNC": "29403"
-  },
-  {
-    "Country Code": "389",
-    "Country": "North Macedonia",
-    "Network": "T-Mobile Macedonia",
-    "MCCMNC": "29401"
-  },
-  {
-    "Country Code": "389",
-    "Country": "North Macedonia",
-    "Network": "Macedonia Landline",
-    "MCCMNC": "294"
-  },
-  {
-    "Country Code": "47",
-    "Country": "Norway",
-    "Network": "Lycamobile Norway Ltd (Telia MVNO)",
-    "MCCMNC": "24223"
-  },
-  {
-    "Country Code": "47",
-    "Country": "Norway",
-    "Network": "Telenor Norge AS",
-    "MCCMNC": "24201"
-  },
-  {
-    "Country Code": "47",
-    "Country": "Norway",
-    "Network": "TELIA (NetCom)",
-    "MCCMNC": "24202"
-  },
-  {
-    "Country Code": "47",
-    "Country": "Norway",
-    "Network": "ICE Communication Norge AS",
-    "MCCMNC": "24214"
-  },
-  {
-    "Country Code": "47",
-    "Country": "Norway",
-    "Network": "Norway Landline",
-    "MCCMNC": "242"
-  },
-  {
-    "Country Code": "47",
-    "Country": "Norway",
-    "Network": "eRate (Telenor MVNO)",
-    "MCCMNC": "24215"
-  },
-  {
-    "Country Code": "968",
-    "Country": "Oman",
-    "Network": "OOREDOO (NAWRAS)",
-    "MCCMNC": "42203"
-  },
-  {
-    "Country Code": "968",
-    "Country": "Oman",
-    "Network": "OMAN MOBILE (Oman Telecommunications Company)",
-    "MCCMNC": "42202"
-  },
-  {
-    "Country Code": "968",
-    "Country": "Oman",
-    "Network": "Vodafone Oman ",
-    "MCCMNC": "42206"
-  },
-  {
-    "Country Code": "92",
-    "Country": "Pakistan",
-    "Network": "Ufone (Pak Telecom Mobile Ltd)",
-    "MCCMNC": "41003"
-  },
-  {
-    "Country Code": "92",
-    "Country": "Pakistan",
-    "Network": "ZONG (CMPak Limited)",
-    "MCCMNC": "41004"
-  },
-  {
-    "Country Code": "92",
-    "Country": "Pakistan",
-    "Network": "Special Communications Organization (SCO)",
-    "MCCMNC": "41008"
-  },
-  {
-    "Country Code": "92",
-    "Country": "Pakistan",
-    "Network": "Telenor Pakistan",
-    "MCCMNC": "41006"
-  },
-  {
-    "Country Code": "92",
-    "Country": "Pakistan",
-    "Network": "Jazz (Warid Telecom)",
-    "MCCMNC": "41007"
-  },
-  {
-    "Country Code": "92",
-    "Country": "Pakistan",
-    "Network": "Pakistan Landline",
-    "MCCMNC": "410"
-  },
-  {
-    "Country Code": "970",
-    "Country": "Palestine",
-    "Network": "Ooredoo (Wataniya)",
-    "MCCMNC": "42506"
-  },
-  {
-    "Country Code": "970",
-    "Country": "Palestine",
-    "Network": "Jawwal (Palestine Telecomm)",
-    "MCCMNC": "42505"
-  },
-  {
-    "Country Code": "507",
-    "Country": "Panama",
-    "Network": "Panama Landline",
-    "MCCMNC": "714"
-  },
-  {
-    "Country Code": "507",
-    "Country": "Panama",
-    "Network": "Mas Movil (Cable & Wireless Panama)",
-    "MCCMNC": "71401"
-  },
-  {
-    "Country Code": "507",
-    "Country": "Panama",
-    "Network": "Claro Panama",
-    "MCCMNC": "71403"
-  },
-  {
-    "Country Code": "507",
-    "Country": "Panama",
-    "Network": "Digicel Panama",
-    "MCCMNC": "71404"
-  },
-  {
-    "Country Code": "507",
-    "Country": "Panama",
-    "Network": "Tigo Panama",
-    "MCCMNC": "71402"
-  },
-  {
-    "Country Code": "675",
-    "Country": "Papua New Guinea",
-    "Network": "Digicel PNG",
-    "MCCMNC": "53703"
-  },
-  {
-    "Country Code": "595",
-    "Country": "Paraguay",
-    "Network": "Tigo (Telecel Paraguay)",
-    "MCCMNC": "74404"
-  },
-  {
-    "Country Code": "63",
-    "Country": "Philippines",
-    "Network": "Globe Telecom",
-    "MCCMNC": "51502"
-  },
-  {
-    "Country Code": "63",
-    "Country": "Philippines",
-    "Network": "Philippines Landline",
-    "MCCMNC": "515"
-  },
-  {
-    "Country Code": "63",
-    "Country": "Philippines",
-    "Network": "Philippines Landline - PH Manilla",
-    "MCCMNC": "515"
-  },
-  {
-    "Country Code": "63",
-    "Country": "Philippines",
-    "Network": "Smart Communications",
-    "MCCMNC": "51503"
-  },
-  {
-    "Country Code": "63",
-    "Country": "Philippines",
-    "Network": "DITO Telecommunity",
-    "MCCMNC": "51566"
-  },
-  {
-    "Country Code": "48",
-    "Country": "Poland",
-    "Network": "T-Mobile.pl ERA (Polska Telefonia Cyfrowa Sp. z o.o.)",
-    "MCCMNC": "26002"
-  },
-  {
-    "Country Code": "48",
-    "Country": "Poland",
-    "Network": "Orange (PTK Centertel Sp. z o.o.)",
-    "MCCMNC": "26003"
-  },
-  {
-    "Country Code": "48",
-    "Country": "Poland",
-    "Network": "Play (P4 Sp. z o.o.)",
-    "MCCMNC": "26006"
-  },
-  {
-    "Country Code": "48",
-    "Country": "Poland",
-    "Network": "Plus (Polkomtel S.A.)",
-    "MCCMNC": "26001"
-  },
-  {
-    "Country Code": "48",
-    "Country": "Poland",
-    "Network": "Poland Landline",
-    "MCCMNC": "260"
-  },
-  {
-    "Country Code": "48",
-    "Country": "Poland",
-    "Network": "Lycamobile Sp. z o.o. (MVNO)",
-    "MCCMNC": "26009"
-  },
-  {
-    "Country Code": "351",
-    "Country": "Portugal",
-    "Network": "MEO (fka TMN)",
-    "MCCMNC": "26806"
-  },
-  {
-    "Country Code": "351",
-    "Country": "Portugal",
-    "Network": "Vodafone Portugal",
-    "MCCMNC": "26801"
-  },
-  {
-    "Country Code": "351",
-    "Country": "Portugal",
-    "Network": "NOS (fka Optimus)",
-    "MCCMNC": "26803"
-  },
-  {
-    "Country Code": "1",
-    "Country": "Puerto Rico",
-    "Network": "Puerto Rico - Landline and Other Carriers",
-    "MCCMNC": "330000"
-  },
-  {
-    "Country Code": "974",
-    "Country": "Qatar",
-    "Network": "Ooredoo (Q-Tel)",
-    "MCCMNC": "42701"
-  },
-  {
-    "Country Code": "974",
-    "Country": "Qatar",
-    "Network": "Vodafone Qatar",
-    "MCCMNC": "42702"
-  },
-  {
-    "Country Code": "262",
-    "Country": "Reunion",
-    "Network": "Societe Reunionnaise de Radiotelephone",
-    "MCCMNC": "64710"
-  },
-  {
-    "Country Code": "262",
-    "Country": "Reunion",
-    "Network": "Orange Reunion",
-    "MCCMNC": "64700"
-  },
-  {
-    "Country Code": "262",
-    "Country": "Reunion",
-    "Network": "Free (ex. Outremer Telecom)",
-    "MCCMNC": "64702"
-  },
-  {
-    "Country Code": "262",
-    "Country": "Reunion",
-    "Network": "Zeop (Orange MVNO)",
-    "MCCMNC": "64704"
-  },
-  {
-    "Country Code": "40",
-    "Country": "Romania",
-    "Network": "Orange Romania",
-    "MCCMNC": "22610"
-  },
-  {
-    "Country Code": "40",
-    "Country": "Romania",
-    "Network": "Vodafone Romania",
-    "MCCMNC": "22601"
-  },
-  {
-    "Country Code": "40",
-    "Country": "Romania",
-    "Network": "Telekom Romania (f.d. Cosmote)",
-    "MCCMNC": "22603"
-  },
-  {
-    "Country Code": "40",
-    "Country": "Romania",
-    "Network": "DIGI Mobil (RCS & RDS)",
-    "MCCMNC": "22605"
-  },
-  {
-    "Country Code": "7",
-    "Country": "Russian Federation",
-    "Network": "Beeline (VimpelCom)",
-    "MCCMNC": "25099"
-  },
-  {
-    "Country Code": "7",
-    "Country": "Russian Federation",
-    "Network": "Megafon",
-    "MCCMNC": "25002"
-  },
-  {
-    "Country Code": "7",
-    "Country": "Russian Federation",
-    "Network": "MTS (Mobile TeleSystems)",
-    "MCCMNC": "25001"
-  },
-  {
-    "Country Code": "7",
-    "Country": "Russian Federation",
-    "Network": "Tele2",
-    "MCCMNC": "25020"
-  },
-  {
-    "Country Code": "7",
-    "Country": "Russian Federation",
-    "Network": "Tinkoff Mobile (Tele2 MVNO)",
-    "MCCMNC": "25062"
-  },
-  {
-    "Country Code": "7",
-    "Country": "Russian Federation",
-    "Network": "Rostelecom (Tele2 MVNO)",
-    "MCCMNC": "25020"
-  },
-  {
-    "Country Code": "7",
-    "Country": "Russian Federation",
-    "Network": "Yota (Scartel)",
-    "MCCMNC": "25011"
-  },
-  {
-    "Country Code": "7",
-    "Country": "Russian Federation",
-    "Network": "MCN Telecom (Tele2 MVNO)",
-    "MCCMNC": "25037"
-  },
-  {
-    "Country Code": "7",
-    "Country": "Russian Federation",
-    "Network": "KTK Telecom (Volna Mobile)",
-    "MCCMNC": "25060"
-  },
-  {
-    "Country Code": "7",
-    "Country": "Russian Federation",
-    "Network": "Russia Landline (Geographic Numbers)",
-    "MCCMNC": "250"
-  },
-  {
-    "Country Code": "7",
-    "Country": "Russian Federation",
-    "Network": "GSM - Other Networks",
-    "MCCMNC": "250"
-  },
-  {
-    "Country Code": "7",
-    "Country": "Russian Federation",
-    "Network": "Miatel (Beeline MVNO)",
-    "MCCMNC": "25016"
-  },
-  {
-    "Country Code": "7",
-    "Country": "Russian Federation",
-    "Network": "MTT (Multiregional Transit Telecom)",
-    "MCCMNC": "25042"
-  },
-  {
-    "Country Code": "7",
-    "Country": "Russian Federation",
-    "Network": "SprintTel (EZ Mobile)",
-    "MCCMNC": "25043"
-  },
-  {
-    "Country Code": "250",
-    "Country": "Rwanda",
-    "Network": "MTN-RWA",
-    "MCCMNC": "63510"
-  },
-  {
-    "Country Code": "1869",
-    "Country": "Saint Kitts and Nevis",
-    "Network": "Digicel St. Kitts and Nevis",
-    "MCCMNC": "356050"
-  },
-  {
-    "Country Code": "1758",
-    "Country": "Saint Lucia",
-    "Network": "Digicel St. Lucia",
-    "MCCMNC": "358050"
-  },
-  {
-    "Country Code": "1758",
-    "Country": "Saint Lucia",
-    "Network": "Flow (Cable & Wireless (St. Lucia) Ltd)",
-    "MCCMNC": "358110"
-  },
-  {
-    "Country Code": "508",
-    "Country": "Saint Pierre and Miquelon",
-    "Network": "AMERIS (SAS SPM Telecom)",
-    "MCCMNC": "30801"
-  },
-  {
-    "Country Code": "1784",
-    "Country": "Saint Vincent and The Grenadines",
-    "Network": "Digicel St. Vincent and the Grenadines",
-    "MCCMNC": "360070"
-  },
-  {
-    "Country Code": "1784",
-    "Country": "Saint Vincent and The Grenadines",
-    "Network": "Flow (Cable & Wireless (St. Vincent and the Grenadines) Ltd)",
-    "MCCMNC": "360110"
-  },
-  {
-    "Country Code": "966",
-    "Country": "Saudi Arabia",
-    "Network": "Zain SA (MTC Saudi Arabia)",
-    "MCCMNC": "42004"
-  },
-  {
-    "Country Code": "966",
-    "Country": "Saudi Arabia",
-    "Network": "Mobily (Etihad Etisalat Company)",
-    "MCCMNC": "42003"
-  },
-  {
-    "Country Code": "966",
-    "Country": "Saudi Arabia",
-    "Network": "STC (Saudi Telecom Company)",
-    "MCCMNC": "42001"
-  },
-  {
-    "Country Code": "966",
-    "Country": "Saudi Arabia",
-    "Network": "Virgin Mobile KSA (STC MVNO)",
-    "MCCMNC": "42005"
-  },
-  {
-    "Country Code": "966",
-    "Country": "Saudi Arabia",
-    "Network": "Lebara Mobile KSA (Mobily MVNO)",
-    "MCCMNC": "42006"
-  },
-  {
-    "Country Code": "221",
-    "Country": "Senegal",
-    "Network": "Expresso Senegal (Sudan Telecom Company Ltd)",
-    "MCCMNC": "60803"
-  },
-  {
-    "Country Code": "221",
-    "Country": "Senegal",
-    "Network": "Orange Senegal (SONATEL)",
-    "MCCMNC": "60801"
-  },
-  {
-    "Country Code": "221",
-    "Country": "Senegal",
-    "Network": "Free (ex. TIGO/Milicom/Sentel)",
-    "MCCMNC": "60802"
-  },
-  {
-    "Country Code": "381",
-    "Country": "Serbia",
-    "Network": "Telekom Srbija MTS",
-    "MCCMNC": "22003"
-  },
-  {
-    "Country Code": "381",
-    "Country": "Serbia",
-    "Network": "A1 Serbia (ex Vip)",
-    "MCCMNC": "22005"
-  },
-  {
-    "Country Code": "381",
-    "Country": "Serbia",
-    "Network": "Yettel Serbia (ex Telenor)",
-    "MCCMNC": "22001"
-  },
-  {
-    "Country Code": "381",
-    "Country": "Serbia",
-    "Network": "Serbia Landline",
-    "MCCMNC": "220"
-  },
-  {
-    "Country Code": "232",
-    "Country": "Sierra Leone",
-    "Network": "Orange (SL) Limited (ex. Airtel Sierra Leone)",
-    "MCCMNC": "61901"
-  },
-  {
-    "Country Code": "232",
-    "Country": "Sierra Leone",
-    "Network": "Africell (LINTEL Ltd)",
-    "MCCMNC": "61905"
-  },
-  {
-    "Country Code": "232",
-    "Country": "Sierra Leone",
-    "Network": "Qcell (ex. Comium)",
-    "MCCMNC": "61907"
-  },
-  {
-    "Country Code": "65",
-    "Country": "Singapore",
-    "Network": "SingTel (Singapore Telecom Mobile)",
-    "MCCMNC": "52501"
-  },
-  {
-    "Country Code": "65",
-    "Country": "Singapore",
-    "Network": "M1 (M1 Limited)",
-    "MCCMNC": "52503"
-  },
-  {
-    "Country Code": "65",
-    "Country": "Singapore",
-    "Network": "TPG",
-    "MCCMNC": "52510"
-  },
-  {
-    "Country Code": "65",
-    "Country": "Singapore",
-    "Network": "StarHub Mobile",
-    "MCCMNC": "52505"
-  },
-  {
-    "Country Code": "65",
-    "Country": "Singapore",
-    "Network": "Singapore Landline",
-    "MCCMNC": "525"
-  },
-  {
-    "Country Code": "65",
-    "Country": "Singapore",
-    "Network": "Tollfree Singapore",
-    "MCCMNC": "525"
-  },
-  {
-    "Country Code": "421",
-    "Country": "Slovakia",
-    "Network": "4ka (SWAN)",
-    "MCCMNC": "23103"
-  },
-  {
-    "Country Code": "421",
-    "Country": "Slovakia",
-    "Network": "Telefonica O2 Slovakia",
-    "MCCMNC": "23106"
-  },
-  {
-    "Country Code": "421",
-    "Country": "Slovakia",
-    "Network": "Orange Slovensko",
-    "MCCMNC": "23101"
-  },
-  {
-    "Country Code": "421",
-    "Country": "Slovakia",
-    "Network": "T-Mobile SK (Slovak Telekom)",
-    "MCCMNC": "23102"
-  },
-  {
-    "Country Code": "386",
-    "Country": "Slovenia",
-    "Network": "Mobitel (Telekom Slovenije)",
-    "MCCMNC": "29341"
-  },
-  {
-    "Country Code": "386",
-    "Country": "Slovenia",
-    "Network": "Slovenia Landline",
-    "MCCMNC": "29399"
-  },
-  {
-    "Country Code": "386",
-    "Country": "Slovenia",
-    "Network": "A1 (SI.mobil)",
-    "MCCMNC": "29340"
-  },
-  {
-    "Country Code": "386",
-    "Country": "Slovenia",
-    "Network": "Telemach (Tusmobil)",
-    "MCCMNC": "29370"
-  },
-  {
-    "Country Code": "386",
-    "Country": "Slovenia",
-    "Network": "T-2",
-    "MCCMNC": "29364"
-  },
-  {
-    "Country Code": "252",
-    "Country": "Somalia",
-    "Network": "SOMTEL",
-    "MCCMNC": "63771"
-  },
-  {
-    "Country Code": "252",
-    "Country": "Somalia",
-    "Network": "Somalia Landline",
-    "MCCMNC": "637"
-  },
-  {
-    "Country Code": "252",
-    "Country": "Somalia",
-    "Network": "Hormuud Telecom Somalia",
-    "MCCMNC": "63725"
-  },
-  {
-    "Country Code": "252",
-    "Country": "Somalia",
-    "Network": "Nationlink",
-    "MCCMNC": "63710"
-  },
-  {
-    "Country Code": "27",
-    "Country": "South Africa",
-    "Network": "MTN-SA",
-    "MCCMNC": "65510"
-  },
-  {
-    "Country Code": "27",
-    "Country": "South Africa",
-    "Network": "VodaCom",
-    "MCCMNC": "65501"
-  },
-  {
-    "Country Code": "27",
-    "Country": "South Africa",
-    "Network": "TELKOM (8TA)",
-    "MCCMNC": "65502"
-  },
-  {
-    "Country Code": "27",
-    "Country": "South Africa",
-    "Network": "South Africa Landline - Telkom",
-    "MCCMNC": "655"
-  },
-  {
-    "Country Code": "211",
-    "Country": "South Sudan",
-    "Network": "MTN South Sudan",
-    "MCCMNC": "65992"
-  },
-  {
-    "Country Code": "211",
-    "Country": "South Sudan",
-    "Network": "DIGITEL Holdings Ltd.",
-    "MCCMNC": "65905"
-  },
-  {
-    "Country Code": "34",
-    "Country": "Spain",
-    "Network": "MNO - Movistar (Telefonica Moviles Espana)",
-    "MCCMNC": "21407"
-  },
-  {
-    "Country Code": "34",
-    "Country": "Spain",
-    "Network": "MNO - Orange Espana",
-    "MCCMNC": "21403"
-  },
-  {
-    "Country Code": "34",
-    "Country": "Spain",
-    "Network": "MVNO - Lycamobile",
-    "MCCMNC": "21425"
-  },
-  {
-    "Country Code": "34",
-    "Country": "Spain",
-    "Network": "MNO - Vodafone Espana",
-    "MCCMNC": "21401"
-  },
-  {
-    "Country Code": "34",
-    "Country": "Spain",
-    "Network": "MVNO - Mas Movil Telecom 3.0 (PEPEPHONE 3.0)",
-    "MCCMNC": "2140354"
-  },
-  {
-    "Country Code": "34",
-    "Country": "Spain",
-    "Network": "MVNO - Euskaltel",
-    "MCCMNC": "21408"
-  },
-  {
-    "Country Code": "34",
-    "Country": "Spain",
-    "Network": "MVNO - Simyo",
-    "MCCMNC": "21419"
-  },
-  {
-    "Country Code": "34",
-    "Country": "Spain",
-    "Network": "MVNO - Digi Spain Telecom",
-    "MCCMNC": "21422"
-  },
-  {
-    "Country Code": "34",
-    "Country": "Spain",
-    "Network": "MVNO - Aire Networks del Mediterraneo",
-    "MCCMNC": "21434"
-  },
-  {
-    "Country Code": "34",
-    "Country": "Spain",
-    "Network": "MVNO - VODAFONE ENABLER ESPANA, S.L.",
-    "MCCMNC": "21406"
-  },
-  {
-    "Country Code": "34",
-    "Country": "Spain",
-    "Network": "MNO - Yoigo (Xfera Moviles)",
-    "MCCMNC": "21404"
-  },
-  {
-    "Country Code": "34",
-    "Country": "Spain",
-    "Network": "Spain Landline",
-    "MCCMNC": "214"
-  },
-  {
-    "Country Code": "34",
-    "Country": "Spain",
-    "Network": "MVNO - ONO (Vodafone)",
-    "MCCMNC": "2140118"
-  },
-  {
-    "Country Code": "34",
-    "Country": "Spain",
-    "Network": "Tollfree Spain",
-    "MCCMNC": "214"
-  },
-  {
-    "Country Code": "94",
-    "Country": "Sri Lanka",
-    "Network": "Dialog Axiata",
-    "MCCMNC": "41302"
-  },
-  {
-    "Country Code": "94",
-    "Country": "Sri Lanka",
-    "Network": "Sri Lanka Landline",
-    "MCCMNC": "413"
-  },
-  {
-    "Country Code": "94",
-    "Country": "Sri Lanka",
-    "Network": "Bharti Airtel Lanka",
-    "MCCMNC": "41305"
-  },
-  {
-    "Country Code": "94",
-    "Country": "Sri Lanka",
-    "Network": "Hutchison Telecommunications Lanka",
-    "MCCMNC": "41308"
-  },
-  {
-    "Country Code": "94",
-    "Country": "Sri Lanka",
-    "Network": "Mobitel",
-    "MCCMNC": "41301"
-  },
-  {
-    "Country Code": "94",
-    "Country": "Sri Lanka",
-    "Network": "Etisalat Lanka",
-    "MCCMNC": "41303"
-  },
-  {
-    "Country Code": "249",
-    "Country": "Sudan",
-    "Network": "Sudani One (Sudan Telecommunications Company)",
-    "MCCMNC": "63407"
-  },
-  {
-    "Country Code": "249",
-    "Country": "Sudan",
-    "Network": "Zain SD",
-    "MCCMNC": "63401"
-  },
-  {
-    "Country Code": "249",
-    "Country": "Sudan",
-    "Network": "MTN Sudan",
-    "MCCMNC": "63402"
-  },
-  {
-    "Country Code": "249",
-    "Country": "Sudan",
-    "Network": "Sudan Landline",
-    "MCCMNC": "634"
-  },
-  {
-    "Country Code": "46",
-    "Country": "Sweden",
-    "Network": "MNO - Tele2 Sverige AB",
-    "MCCMNC": "24007"
-  },
-  {
-    "Country Code": "46",
-    "Country": "Sweden",
-    "Network": "MNO - 3 (Hi3G Access AB)",
-    "MCCMNC": "24002"
-  },
-  {
-    "Country Code": "46",
-    "Country": "Sweden",
-    "Network": "MNO - Telenor Sverige AB",
-    "MCCMNC": "24008"
-  },
-  {
-    "Country Code": "46",
-    "Country": "Sweden",
-    "Network": "MNO - TeliaSonera Sverige AB",
-    "MCCMNC": "24001"
-  },
-  {
-    "Country Code": "46",
-    "Country": "Sweden",
-    "Network": "Sweden Landline",
-    "MCCMNC": "240"
-  },
-  {
-    "Country Code": "46",
-    "Country": "Sweden",
-    "Network": "MVNO - Spirius AB",
-    "MCCMNC": "24045"
-  },
-  {
-    "Country Code": "46",
-    "Country": "Sweden",
-    "Network": "MVNO - Lycamobile Sweden Ltd",
-    "MCCMNC": "24012"
-  },
-  {
-    "Country Code": "46",
-    "Country": "Sweden",
-    "Network": "MVNO TeliaSonera - Uno Telefoni AB",
-    "MCCMNC": "240"
-  },
-  {
-    "Country Code": "41",
-    "Country": "Switzerland",
-    "Network": "Salt Mobile SA (ex.Orange)",
-    "MCCMNC": "22803"
-  },
-  {
-    "Country Code": "41",
-    "Country": "Switzerland",
-    "Network": "Sunrise",
-    "MCCMNC": "22802"
-  },
-  {
-    "Country Code": "41",
-    "Country": "Switzerland",
-    "Network": "Swisscom",
-    "MCCMNC": "22801"
-  },
-  {
-    "Country Code": "41",
-    "Country": "Switzerland",
-    "Network": "Switzerland Landline",
-    "MCCMNC": "228"
-  },
-  {
-    "Country Code": "41",
-    "Country": "Switzerland",
-    "Network": "Lycamobile AG (Swisscom MVNO)",
-    "MCCMNC": "22854"
-  },
-  {
-    "Country Code": "963",
-    "Country": "Syria",
-    "Network": "Syria minor carriers",
-    "MCCMNC": "41701"
-  },
-  {
-    "Country Code": "963",
-    "Country": "Syria",
-    "Network": "Syria Landline - Syria Telecom",
-    "MCCMNC": "417"
-  },
-  {
-    "Country Code": "963",
-    "Country": "Syria",
-    "Network": "MTN Syria",
-    "MCCMNC": "41702"
-  },
-  {
-    "Country Code": "886",
-    "Country": "Taiwan",
-    "Network": "Taiwan Mobile",
-    "MCCMNC": "46697"
-  },
-  {
-    "Country Code": "886",
-    "Country": "Taiwan",
-    "Network": "Far EasTone",
-    "MCCMNC": "46601"
-  },
-  {
-    "Country Code": "886",
-    "Country": "Taiwan",
-    "Network": "APTG (Asia Pacific Telecom)",
-    "MCCMNC": "46605"
-  },
-  {
-    "Country Code": "886",
-    "Country": "Taiwan",
-    "Network": "Chunghwa Telecom",
-    "MCCMNC": "46692"
-  },
-  {
-    "Country Code": "886",
-    "Country": "Taiwan",
-    "Network": "T Star (Taiwan Star Telecom)",
-    "MCCMNC": "46689"
-  },
-  {
-    "Country Code": "992",
-    "Country": "Tajikistan",
-    "Network": "Zet-Mobile ((Ex Beeline)Tacom LLC)",
-    "MCCMNC": "43605"
-  },
-  {
-    "Country Code": "992",
-    "Country": "Tajikistan",
-    "Network": "Babilon-M",
-    "MCCMNC": "43604"
-  },
-  {
-    "Country Code": "992",
-    "Country": "Tajikistan",
-    "Network": "MegaFon Tajikistan (TT Mobile)",
-    "MCCMNC": "43603"
-  },
-  {
-    "Country Code": "992",
-    "Country": "Tajikistan",
-    "Network": "Tcell (fka Indigo)",
-    "MCCMNC": "43601"
-  },
-  {
-    "Country Code": "992",
-    "Country": "Tajikistan",
-    "Network": "O-Mobile (Tcell MVNO)",
-    "MCCMNC": "43615"
-  },
-  {
-    "Country Code": "255",
-    "Country": "Tanzania",
-    "Network": "tiGO (MIC Tanzania Ltd)",
-    "MCCMNC": "64002"
-  },
-  {
-    "Country Code": "255",
-    "Country": "Tanzania",
-    "Network": "Airtel Tanzania",
-    "MCCMNC": "64005"
-  },
-  {
-    "Country Code": "255",
-    "Country": "Tanzania",
-    "Network": "Vodacom Tanzania",
-    "MCCMNC": "64004"
-  },
-  {
-    "Country Code": "255",
-    "Country": "Tanzania",
-    "Network": "Halotel (Viettel Tanzania)",
-    "MCCMNC": "64009"
-  },
-  {
-    "Country Code": "66",
-    "Country": "Thailand",
-    "Network": "DTAC (Total Access Communications Co.)",
-    "MCCMNC": "52018"
-  },
-  {
-    "Country Code": "66",
-    "Country": "Thailand",
-    "Network": "AIS GSM (Advanced Info Service PLC)",
-    "MCCMNC": "52003"
-  },
-  {
-    "Country Code": "66",
-    "Country": "Thailand",
-    "Network": "True Move H (Real Future)",
-    "MCCMNC": "52004"
-  },
-  {
-    "Country Code": "66",
-    "Country": "Thailand",
-    "Network": "Thailand Landline",
-    "MCCMNC": "520"
-  },
-  {
-    "Country Code": "66",
-    "Country": "Thailand",
-    "Network": "my network (by CAT)",
-    "MCCMNC": "52000"
-  },
-  {
-    "Country Code": "670",
-    "Country": "Timor-Leste",
-    "Network": "Telin Telkomcel",
-    "MCCMNC": "51401"
-  },
-  {
-    "Country Code": "670",
-    "Country": "Timor-Leste",
-    "Network": "Timor Telecom",
-    "MCCMNC": "51402"
-  },
-  {
-    "Country Code": "670",
-    "Country": "Timor-Leste",
-    "Network": "Viettel",
-    "MCCMNC": "51403"
-  },
-  {
-    "Country Code": "228",
-    "Country": "Togo",
-    "Network": "Togo Cell (Togo Telecom)",
-    "MCCMNC": "61501"
-  },
-  {
-    "Country Code": "228",
-    "Country": "Togo",
-    "Network": "Moov (Atlantique Telecom - Etisalat)",
-    "MCCMNC": "61503"
-  },
-  {
-    "Country Code": "1868",
-    "Country": "Trinidad and Tobago",
-    "Network": "bmobile (TSTT)",
-    "MCCMNC": "37412"
-  },
-  {
-    "Country Code": "1868",
-    "Country": "Trinidad and Tobago",
-    "Network": "Digicel Trinidad and Tobago Ltd",
-    "MCCMNC": "374130"
-  },
-  {
-    "Country Code": "216",
-    "Country": "Tunisia",
-    "Network": "TunTel (Tunisie Telecom)",
-    "MCCMNC": "60502"
-  },
-  {
-    "Country Code": "216",
-    "Country": "Tunisia",
-    "Network": "Ooredoo (Tunisiana)",
-    "MCCMNC": "60503"
-  },
-  {
-    "Country Code": "216",
-    "Country": "Tunisia",
-    "Network": "Orange Tunisie",
-    "MCCMNC": "60501"
-  },
-  {
-    "Country Code": "90",
-    "Country": "Turkey",
-    "Network": "Turk Telekom (AVEA)",
-    "MCCMNC": "28603"
-  },
-  {
-    "Country Code": "90",
-    "Country": "Turkey",
-    "Network": "Turkcell",
-    "MCCMNC": "28601"
-  },
-  {
-    "Country Code": "90",
-    "Country": "Turkey",
-    "Network": "Vodafone Turkey",
-    "MCCMNC": "28602"
-  },
-  {
-    "Country Code": "993",
-    "Country": "Turkmenistan",
-    "Network": "Altyn Asyr",
-    "MCCMNC": "43802"
-  },
-  {
-    "Country Code": "256",
-    "Country": "Uganda",
-    "Network": "Airtel Uganda",
-    "MCCMNC": "64101"
-  },
-  {
-    "Country Code": "256",
-    "Country": "Uganda",
-    "Network": "MTN Uganda",
-    "MCCMNC": "64110"
-  },
-  {
-    "Country Code": "380",
-    "Country": "Ukraine",
-    "Network": "3Mob (Ukrtelecom)",
-    "MCCMNC": "25507"
-  },
-  {
-    "Country Code": "380",
-    "Country": "Ukraine",
-    "Network": "Kyivstar",
-    "MCCMNC": "25503"
-  },
-  {
-    "Country Code": "380",
-    "Country": "Ukraine",
-    "Network": "Vodafone Ukraine (fka MTS)",
-    "MCCMNC": "25501"
-  },
-  {
-    "Country Code": "380",
-    "Country": "Ukraine",
-    "Network": "Ukraine Landline",
-    "MCCMNC": "255"
-  },
-  {
-    "Country Code": "380",
-    "Country": "Ukraine",
-    "Network": "life:) (Astelit)",
-    "MCCMNC": "25506"
-  },
-  {
-    "Country Code": "971",
-    "Country": "United Arab Emirates",
-    "Network": "du (EITC)",
-    "MCCMNC": "42403"
-  },
-  {
-    "Country Code": "971",
-    "Country": "United Arab Emirates",
-    "Network": "Etisalat (Emirates Telecom Corp)",
-    "MCCMNC": "42402"
-  },
-  {
-    "Country Code": "971",
-    "Country": "United Arab Emirates",
-    "Network": "AE Landline",
-    "MCCMNC": "424"
-  },
-  {
-    "Country Code": "44",
-    "Country": "United Kingdom",
-    "Network": "MNO - O2 (Telefonica UK Ltd)",
-    "MCCMNC": "23410"
-  },
-  {
-    "Country Code": "44",
-    "Country": "United Kingdom",
-    "Network": "MNO - 3 (Hutchison 3G UK Ltd)",
-    "MCCMNC": "23420"
-  },
-  {
-    "Country Code": "44",
-    "Country": "United Kingdom",
-    "Network": "MNO - BT - Everything Everywhere Limited (ex T-Mob & Orange)",
-    "MCCMNC": "23430"
-  },
-  {
-    "Country Code": "44",
-    "Country": "United Kingdom",
-    "Network": "MNO - Vodafone UK",
-    "MCCMNC": "23415"
-  },
-  {
-    "Country Code": "44",
-    "Country": "United Kingdom",
-    "Network": "MVNO - Gamma Telecom Holdings Ltd",
-    "MCCMNC": "23439"
-  },
-  {
-    "Country Code": "44",
-    "Country": "United Kingdom",
-    "Network": "MNO - Sky UK Limited",
-    "MCCMNC": "23457"
-  },
-  {
-    "Country Code": "44",
-    "Country": "United Kingdom",
-    "Network": "MNO - Lycamobile UK Limted",
-    "MCCMNC": "23426"
-  },
-  {
-    "Country Code": "44",
-    "Country": "United Kingdom",
-    "Network": "MVNO - Stour Marine Limited",
-    "MCCMNC": "234"
-  },
-  {
-    "Country Code": "44",
-    "Country": "United Kingdom",
-    "Network": "United Kingdom Landline",
-    "MCCMNC": "234"
-  },
-  {
-    "Country Code": "44",
-    "Country": "United Kingdom",
-    "Network": "UK Other Operators",
-    "MCCMNC": "234"
-  },
-  {
-    "Country Code": "44",
-    "Country": "United Kingdom",
-    "Network": "MVNO - Tismi BV",
-    "MCCMNC": "23409"
-  },
-  {
-    "Country Code": "44",
-    "Country": "United Kingdom",
-    "Network": "MNO - Voxbone SA",
-    "MCCMNC": "234"
-  },
-  {
-    "Country Code": "44",
-    "Country": "United Kingdom",
-    "Network": "MVNO - Swiftnet Ltd",
-    "MCCMNC": "234"
-  },
-  {
-    "Country Code": "1",
-    "Country": "United States",
-    "Network": "Verizon Wireless",
-    "MCCMNC": "311480"
-  },
-  {
-    "Country Code": "1",
-    "Country": "United States",
-    "Network": "T-Mobile US",
-    "MCCMNC": "310260"
-  },
-  {
-    "Country Code": "1",
-    "Country": "United States",
-    "Network": "USA - Landline and Other Carriers",
-    "MCCMNC": "316000"
-  },
-  {
-    "Country Code": "1",
-    "Country": "United States",
-    "Network": "T-Mobile US - MetroPCS",
-    "MCCMNC": "311660"
-  },
-  {
-    "Country Code": "1",
-    "Country": "United States",
-    "Network": "AT&T Mobility",
-    "MCCMNC": "310410"
-  },
-  {
-    "Country Code": "1",
-    "Country": "United States",
-    "Network": "USA - Area Codes",
-    "MCCMNC": "316999"
-  },
-  {
-    "Country Code": "1",
-    "Country": "United States",
-    "Network": "ClearSky: Zipwhip",
-    "MCCMNC": "316998"
-  },
-  {
-    "Country Code": "1",
-    "Country": "United States",
-    "Network": "ClearSky: Enflick (TextNow)",
-    "MCCMNC": "312570"
-  },
-  {
-    "Country Code": "1",
-    "Country": "United States",
-    "Network": "ClearSky: Inteliquent (Onvoy)",
-    "MCCMNC": "312850"
-  },
-  {
-    "Country Code": "1",
-    "Country": "United States",
-    "Network": "Google Voice",
-    "MCCMNC": "312999"
-  },
-  {
-    "Country Code": "1",
-    "Country": "United States",
-    "Network": "ClearSky: Telnyx",
-    "MCCMNC": "312993"
-  },
-  {
-    "Country Code": "1",
-    "Country": "United States",
-    "Network": "ClearSky: Bandwidth",
-    "MCCMNC": "312996"
-  },
-  {
-    "Country Code": "1",
-    "Country": "United States",
-    "Network": "Interop: Southern LINC",
-    "MCCMNC": "312720"
-  },
-  {
-    "Country Code": "1",
-    "Country": "United States & Canada Toll Free",
-    "Network": "USA & Canada TFN (8XX)",
-    "MCCMNC": "310"
-  },
-  {
-    "Country Code": "598",
-    "Country": "Uruguay",
-    "Network": "Antel",
-    "MCCMNC": "74801"
-  },
-  {
-    "Country Code": "998",
-    "Country": "Uzbekistan",
-    "Network": "UCell (Coscom)",
-    "MCCMNC": "43405"
-  },
-  {
-    "Country Code": "998",
-    "Country": "Uzbekistan",
-    "Network": "UMS (MTS)",
-    "MCCMNC": "43407"
-  },
-  {
-    "Country Code": "998",
-    "Country": "Uzbekistan",
-    "Network": "UzMobile",
-    "MCCMNC": "43408"
-  },
-  {
-    "Country Code": "998",
-    "Country": "Uzbekistan",
-    "Network": "Beeline (Unitel LLC)",
-    "MCCMNC": "43404"
-  },
-  {
-    "Country Code": "998",
-    "Country": "Uzbekistan",
-    "Network": "Uzbekistan Landline",
-    "MCCMNC": "434"
-  },
-  {
-    "Country Code": "998",
-    "Country": "Uzbekistan",
-    "Network": "Perfectum Mobile (Rubicon) (CDMA)",
-    "MCCMNC": "43406"
-  },
-  {
-    "Country Code": "678",
-    "Country": "Vanuatu",
-    "Network": "Vodafone Vanuatu",
-    "MCCMNC": "54101"
-  },
-  {
-    "Country Code": "58",
-    "Country": "Venezuela",
-    "Network": "Digitel GSM",
-    "MCCMNC": "73402"
-  },
-  {
-    "Country Code": "58",
-    "Country": "Venezuela",
-    "Network": "Movistar (Telcel C.A.)",
-    "MCCMNC": "73404"
-  },
-  {
-    "Country Code": "84",
-    "Country": "Vietnam",
-    "Network": "MobiFone (Vietnam Mobile Telecom Services Company)",
-    "MCCMNC": "45201"
-  },
-  {
-    "Country Code": "84",
-    "Country": "Vietnam",
-    "Network": "Vinaphone (Vietnam Telecom Services Company)",
-    "MCCMNC": "45202"
-  },
-  {
-    "Country Code": "84",
-    "Country": "Vietnam",
-    "Network": "Viettel Mobile",
-    "MCCMNC": "45204"
-  },
-  {
-    "Country Code": "84",
-    "Country": "Vietnam",
-    "Network": "Vietnamobile (Hanoi Telecom)",
-    "MCCMNC": "45205"
-  },
-  {
-    "Country Code": "84",
-    "Country": "Vietnam",
-    "Network": "IndoChina Telecom (Vinaphone MVNO)",
-    "MCCMNC": "45299"
-  },
-  {
-    "Country Code": "967",
-    "Country": "Yemen",
-    "Network": "MTN (Spacetel)",
-    "MCCMNC": "42102"
-  },
-  {
-    "Country Code": "967",
-    "Country": "Yemen",
-    "Network": "Yemen Mobile (CDMA)",
-    "MCCMNC": "42103"
-  },
-  {
-    "Country Code": "967",
-    "Country": "Yemen",
-    "Network": "Sabafon (Yemen Company for Mobile Telephony)",
-    "MCCMNC": "42101"
-  },
-  {
-    "Country Code": "967",
-    "Country": "Yemen",
-    "Network": "Y (HiTS-UNITEL)",
-    "MCCMNC": "42104"
-  },
-  {
-    "Country Code": "260",
-    "Country": "Zambia",
-    "Network": "Airtel Zambia",
-    "MCCMNC": "64501"
-  },
-  {
-    "Country Code": "260",
-    "Country": "Zambia",
-    "Network": "MTN Zambia",
-    "MCCMNC": "64502"
-  },
-  {
-    "Country Code": "260",
-    "Country": "Zambia",
-    "Network": "Zambia Telecommunications Company (Zamtel)",
-    "MCCMNC": "64503"
-  },
-  {
-    "Country Code": "263",
-    "Country": "Zimbabwe",
-    "Network": "Econet Wireless",
-    "MCCMNC": "64804"
-  },
-  {
-    "Country Code": "263",
-    "Country": "Zimbabwe",
-    "Network": "Telecel Zimbabwe",
-    "MCCMNC": "64803"
+    "Country Prefix": "41",
+    "Country Name": "Switzerland",
+    "Network Name": "Lycamobile AG (Swisscom MVNO)",
+    "mcc": "228",
+    "mnc": "54",
+    "mccmnc": "22854"
+  },
+  {
+    "Country Prefix": "91",
+    "Country Name": "India",
+    "Network Name": "Reliance Jio // Mumbai",
+    "mcc": "405",
+    "mnc": "874",
+    "mccmnc": "405874"
+  },
+  {
+    "Country Prefix": "1",
+    "Country Name": "United States",
+    "Network Name": "T-Mobile US - MetroPCS",
+    "mcc": "311",
+    "mnc": "660",
+    "mccmnc": "311660"
+  },
+  {
+    "Country Prefix": "7",
+    "Country Name": "Russian Federation",
+    "Network Name": "K-Telecom (WIN Mobile)",
+    "mcc": "250",
+    "mnc": "32",
+    "mccmnc": "25032"
+  },
+  {
+    "Country Prefix": "256",
+    "Country Name": "Uganda",
+    "Network Name": "Airtel Uganda",
+    "mcc": "641",
+    "mnc": "01",
+    "mccmnc": "64101"
+  },
+  {
+    "Country Prefix": "381",
+    "Country Name": "Serbia",
+    "Network Name": "Telekom Srbija MTS",
+    "mcc": "220",
+    "mnc": "03",
+    "mccmnc": "22003"
+  },
+  {
+    "Country Prefix": "963",
+    "Country Name": "Syria",
+    "Network Name": "MTN Syria",
+    "mcc": "417",
+    "mnc": "02",
+    "mccmnc": "41702"
+  },
+  {
+    "Country Prefix": "66",
+    "Country Name": "Thailand",
+    "Network Name": "True Move H (Real Future)",
+    "mcc": "520",
+    "mnc": "04",
+    "mccmnc": "52004"
+  },
+  {
+    "Country Prefix": "7",
+    "Country Name": "Russian Federation",
+    "Network Name": "Sberbank Telecom (Tele2 MVNO)",
+    "mcc": "250",
+    "mnc": "50",
+    "mccmnc": "25050"
+  },
+  {
+    "Country Prefix": "377",
+    "Country Name": "Monaco",
+    "Network Name": "VALA - P&T Kosovo (Monaco Telecom)",
+    "mcc": "212",
+    "mnc": "01",
+    "mccmnc": "21201"
+  },
+  {
+    "Country Prefix": "221",
+    "Country Name": "Senegal",
+    "Network Name": "Orange Senegal (SONATEL)",
+    "mcc": "608",
+    "mnc": "01",
+    "mccmnc": "60801"
+  },
+  {
+    "Country Prefix": "61",
+    "Country Name": "Australia",
+    "Network Name": "Telstra",
+    "mcc": "505",
+    "mnc": "01",
+    "mccmnc": "50501"
+  },
+  {
+    "Country Prefix": "82",
+    "Country Name": "Korea, the Republic of",
+    "Network Name": "LG U+",
+    "mcc": "450",
+    "mnc": "06",
+    "mccmnc": "45006"
   }
 ]
